@@ -1,0 +1,560 @@
+[
+  {
+    "number": 1,
+    "topic": 1,
+    "file": "images/01.png",
+    "caption": "IdentityIQ logo",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/wZNbLF_oPcOwyn1E_vrOt9eojakxMjsUg.png",
+    "bytes": 7571,
+    "sha256": "6b6f6533f56e3b6d548b09ddd1bfabb0261d5fc59a59e2a72734202a1a6b2897"
+  },
+  {
+    "number": 2,
+    "topic": 1,
+    "file": "images/02.jpg",
+    "caption": "Next-topic navigation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/KMhv26Vnd0KQGxd3_3j0jLYUfyHKrkcHn.jpg",
+    "bytes": 2959,
+    "sha256": "781cf54a58b978d50ce28f2b3105765cf08832c20dd963c708dae7dd44766963"
+  },
+  {
+    "number": 3,
+    "topic": 2,
+    "file": "images/03.png",
+    "caption": "Course content illustration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/qTt9jg_jQqVib5lE_RKNirbLyroiUFj6o.png",
+    "bytes": 81667,
+    "sha256": "16d36d6d2e72a1b5bd5fe24e7dd52b04ccf808e5bd0cbed12963d04cacf4e60c"
+  },
+  {
+    "number": 4,
+    "topic": 2,
+    "file": "images/04.jpg",
+    "caption": "Course navigation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/XRURqOPhBYpOt1sy_u3wdWNxpMv8cwCPw.jpg",
+    "bytes": 7954,
+    "sha256": "0a308eea5c1af3f48272e9f5b3ab304e0b6a9acbf3f36e0cf9cd3ee954816c70"
+  },
+  {
+    "number": 5,
+    "topic": 2,
+    "file": "images/05.jpg",
+    "caption": "Learning illustration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/4VVCE7UGJOZt-N69_aAP5N2XfJwocy30O.jpg",
+    "bytes": 116186,
+    "sha256": "7e65d139c825c046458cf2998d48d0099f3b474df4a0ec78025702bff20e0336"
+  },
+  {
+    "number": 6,
+    "topic": 3,
+    "file": "images/06.jpg",
+    "caption": "Identity security platform",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/hQkrcP1Ua1tzSO7J_JBlkLQluLDLoWYwR.jpg",
+    "bytes": 17689,
+    "sha256": "c90ada0e79bfb381294f4e2cfd35aff6db92fa39c6a6b2a420a6f5893420bbec"
+  },
+  {
+    "number": 7,
+    "topic": 3,
+    "file": "images/07.jpg",
+    "caption": "Identity-security benefit card 1",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/nZu1yctGsrkbFqvv_b5Dfg3_OqLesW6Sx.jpg",
+    "bytes": 8656,
+    "sha256": "d8d39876c659dae85ce456aaec2704ff6005ee4cb70270d7a61cdb14f74bf37c"
+  },
+  {
+    "number": 8,
+    "topic": 3,
+    "file": "images/08.jpg",
+    "caption": "Identity-security benefit card 2",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/jt7VzkD5zDK8HAEa_BAL-dWOsAMa36P4L.jpg",
+    "bytes": 9245,
+    "sha256": "4de227a47312ae7ad35dd07cc7e1605cdb54e95563913136e4d36e1305981733"
+  },
+  {
+    "number": 9,
+    "topic": 3,
+    "file": "images/09.jpg",
+    "caption": "Identity-security benefit card 3",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/OVhZKnvmGEbtd1Zc_nFs6GI28dSCKrtSF.jpg",
+    "bytes": 10762,
+    "sha256": "692dca005620bc39291e8f21f6711f0e6b4c744c94c3425d8e436906c618ce2a"
+  },
+  {
+    "number": 10,
+    "topic": 3,
+    "file": "images/10.png",
+    "caption": "IdentityIQ and integrated solutions",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/XxpF1VfYhHXB4hEp_3fr3WzFUMhIfhf_2.png",
+    "bytes": 23978,
+    "sha256": "3bba0acebf9a838c89fb2bb050b7fbeb7cb8fa7b73fcc16cd3074a6801736fd5"
+  },
+  {
+    "number": 11,
+    "topic": 3,
+    "file": "images/11.png",
+    "caption": "Lifecycle Manager capabilities",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/fnI0jmy2CyyQA8Qt_Ilxgn-ZzpeUFE0gk.png",
+    "bytes": 9840,
+    "sha256": "025416269e51d1bae469717c977ce4255ee3054623c0f120ce655bf2ebca2a4b"
+  },
+  {
+    "number": 12,
+    "topic": 3,
+    "file": "images/12.png",
+    "caption": "Compliance Manager capabilities",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/H04PiKXmT4Frk69l_8iLruiGt4XIQ9xZ-.png",
+    "bytes": 8456,
+    "sha256": "7649c167c45e8ee1a24e9266d2667e6841e78eeaa82098b3f3393331a9f7b3b0"
+  },
+  {
+    "number": 13,
+    "topic": 3,
+    "file": "images/13.png",
+    "caption": "Data-center deployment",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/nTihCYorVn3CPhjX_SXIJFvw9eivfir5Z.png",
+    "bytes": 1849,
+    "sha256": "f17c1bed322dfa5e9b79cf16ceac717576140a886dd7e0b3813137c8692cd045"
+  },
+  {
+    "number": 14,
+    "topic": 3,
+    "file": "images/14.png",
+    "caption": "Public-cloud deployment",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/fp3244yViB6xNxBA_XYDQ4dM5pyzp8lkx.png",
+    "bytes": 1951,
+    "sha256": "24a647e57f00e6099f9b1e24fc577259a25455279d940512171b8d65ac825365"
+  },
+  {
+    "number": 15,
+    "topic": 3,
+    "file": "images/15.png",
+    "caption": "Managed-service deployment",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/vlbfrXDF9ciSmW6o_ZM1WNun6JhIh8Mky.png",
+    "bytes": 2981,
+    "sha256": "ac4daa27e8f36635534ae4df533d7c1f29aa22e34bfea4f5ce1dfcfd933cbb2f"
+  },
+  {
+    "number": 16,
+    "topic": 4,
+    "file": "images/16.png",
+    "caption": "Identity cube",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/n98tFogulp_ZY0Pf_WbLC9kqBLqC1Ai5n.png",
+    "bytes": 3580,
+    "sha256": "d4b4e20469d07a6f70ebff963dd64ae1ae5fa16b4d98ceee02beaf903e7e4672"
+  },
+  {
+    "number": 17,
+    "topic": 4,
+    "file": "images/17.jpg",
+    "caption": "Identity vocabulary card 1",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/I0kfDMhiQvH8V-rf_XRiU1UHBrMK7wuhw.jpg",
+    "bytes": 4432,
+    "sha256": "f2a4e3a02cba4e67b89edb67c8d8082c7be06ac562f4158e961fd1dd2b9b1aa3"
+  },
+  {
+    "number": 18,
+    "topic": 4,
+    "file": "images/18.jpg",
+    "caption": "Identity vocabulary card 2",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/r-RRoRURGTb0woA__GiEXHQ89P-SdcXMd.jpg",
+    "bytes": 4581,
+    "sha256": "80440ed4ed10f675b99efa7975c5d294ce18838657c54643bb3d37fd0c1b2471"
+  },
+  {
+    "number": 19,
+    "topic": 4,
+    "file": "images/19.jpg",
+    "caption": "Identity vocabulary card 3",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/FTMsAxL-dK9lJzEQ_iaGpe7jpdxIahMUM.jpg",
+    "bytes": 5188,
+    "sha256": "d1e6833e5614f67023e831a120008e8441c2ebda2a6f20ec6d9658b50ac07a0c"
+  },
+  {
+    "number": 20,
+    "topic": 4,
+    "file": "images/20.png",
+    "caption": "Aggregation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/X9nxG7WVvAvEU65z_BvsOp44dU7woRwHh.png",
+    "bytes": 16043,
+    "sha256": "2b9acf99827c7fc5fa0fbf5505b0f8fcfe53d7f969aef5fe44827b841f84ce36"
+  },
+  {
+    "number": 21,
+    "topic": 4,
+    "file": "images/21.png",
+    "caption": "Compliance management",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/CsAQqIy_kys3Bg5L_ZdfIT6GQa616AevI.png",
+    "bytes": 26053,
+    "sha256": "4739c62464c86af61d79364e283cb1cc89b41ceeedcf4b09870a88db84230035"
+  },
+  {
+    "number": 22,
+    "topic": 4,
+    "file": "images/22.png",
+    "caption": "Lifecycle management",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/quMhS669zpThrwPf_JgHEfM9w_ShYBWSk.png",
+    "bytes": 27270,
+    "sha256": "d5809a70056ae1315c074f2aebc3d814bee3cec34ffe834e269eae00144731b7"
+  },
+  {
+    "number": 23,
+    "topic": 5,
+    "file": "images/23.png",
+    "caption": "User access request",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/WSJzEA_vlD9KCXdo_p0B3Ap5VdXmXAGO4.png",
+    "bytes": 3746,
+    "sha256": "ac6c93810793c8186672796cf2f481e081b5c102dfd306898c618f1b11a4d8e6"
+  },
+  {
+    "number": 24,
+    "topic": 5,
+    "file": "images/24.png",
+    "caption": "Access-request process",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/KrA0siQr0QGmvT5P_dtczULFeZpM9KK8l.png",
+    "bytes": 26384,
+    "sha256": "640ebd5ab3e472e5dda22812bd1a72444907ba2a26c63b35005d0779e54bc10f"
+  },
+  {
+    "number": 25,
+    "topic": 6,
+    "file": "images/25.png",
+    "caption": "IdentityIQ monitors data",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/CpRrS8NQhNo-xGRs_CGC6pxWKTXKLsYME.png",
+    "bytes": 6373,
+    "sha256": "5fddff91ee9e1cf8372634f29ca5c36d4a70d9daaafdb805bbb510ed9d3d037b"
+  },
+  {
+    "number": 26,
+    "topic": 6,
+    "file": "images/26.png",
+    "caption": "IdentityIQ detects changes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/hT28Thg9JbiJPC3J_xgI2AdM_10fqasLA.png",
+    "bytes": 7077,
+    "sha256": "cf1789eb598c092253f1a641cd1a5d488e06840a768394737039d741691b4b0c"
+  },
+  {
+    "number": 27,
+    "topic": 6,
+    "file": "images/27.png",
+    "caption": "IdentityIQ provisions changes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/AzIxyon1ecaM3AIY_sV6eTcuCLpgY_DG-.png",
+    "bytes": 14216,
+    "sha256": "4e8279c84d3fd1b8c2e80ad5530dc415a5266969a811dad4696e22744554fd2b"
+  },
+  {
+    "number": 28,
+    "topic": 6,
+    "file": "images/28.png",
+    "caption": "Joiner, mover and leaver events",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/oqNc5p4NQ91x0gNo_nQHukwKc0mA3YqMT.png",
+    "bytes": 7839,
+    "sha256": "7cd93242dd6d77560c6586967e246aa3cc419bdfab31ca7b9183b7666a170c04"
+  },
+  {
+    "number": 29,
+    "topic": 7,
+    "file": "images/29.png",
+    "caption": "Certifier and user access",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/dq5DYEBVvTgLfU4t_Tyk4pPP-K2oXMwjG.png",
+    "bytes": 18887,
+    "sha256": "c5b9626ac24920518231e28b9cd155f372a8c5f7419127978065e629a608b1e9"
+  },
+  {
+    "number": 30,
+    "topic": 7,
+    "file": "images/30.png",
+    "caption": "Create a certification campaign",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/EALAmqN9vdfv720u_1TmWKgYXJhbim0sN.png",
+    "bytes": 27750,
+    "sha256": "c20674704eec75b10befccff99d4e267272cbe849d5a4328d9b68af75b1f9177"
+  },
+  {
+    "number": 31,
+    "topic": 7,
+    "file": "images/31.png",
+    "caption": "Manager access reviews",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/PvrPQHoRTGJk_lDK_YeFTT_-0jhyh9ZNW.png",
+    "bytes": 26817,
+    "sha256": "46a2f350a32f18021a9fa5573a0978f5f17cc9c4b85153cb13c71af0c81e67df"
+  },
+  {
+    "number": 32,
+    "topic": 7,
+    "file": "images/32.jpg",
+    "caption": "Approve or revoke access",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/kdLh12PQLj4tRzGO_0zlBCrEMQ6Oz7FMt.jpg",
+    "bytes": 67376,
+    "sha256": "808967c53000ce5350c931c223be19c5599bda6e1d29e7440f44fcf19778aa0b"
+  },
+  {
+    "number": 33,
+    "topic": 8,
+    "file": "images/33.png",
+    "caption": "Separation of duties",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/X1SkOs69jKi2V6d4_6I4sVgPv2xeyuX-1.png",
+    "bytes": 3268,
+    "sha256": "df6ff16483e29822b1d51f455c483ffb489147acdc82c1d0e614a88d62d20899"
+  },
+  {
+    "number": 34,
+    "topic": 8,
+    "file": "images/34.png",
+    "caption": "Dormant accounts",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/OLtQaCWIyIk-WjQf_UVYv_gRaZ751g4O_.png",
+    "bytes": 3661,
+    "sha256": "01ef03d0061df749c7bbf57c6d78460da3260ae7163a9336d09286de70505687"
+  },
+  {
+    "number": 35,
+    "topic": 8,
+    "file": "images/35.png",
+    "caption": "Non-manager with manager access",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/EM5iezpOgdt1WiKw_q-hJSz0m6P5sk1tz.png",
+    "bytes": 4058,
+    "sha256": "00db2cd99736e0a96762706844bc1352b9faf05dbaa6d286c38cd7449d28039d"
+  },
+  {
+    "number": 36,
+    "topic": 8,
+    "file": "images/36.jpg",
+    "caption": "Violation-owner actions",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/t3o0me-06hfsYwQ8_AgFYXRLmVBbRnzFL.jpg",
+    "bytes": 28390,
+    "sha256": "ec1ea386a2465fcda508dca45a1055c551b6aa9ed7faee18ad7aff2e266087f1"
+  },
+  {
+    "number": 37,
+    "topic": 8,
+    "file": "images/37.png",
+    "caption": "Correcting a violation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/Ad4c1MQYCA3tEDxl_T4c9Hl40jWSEbW_h.png",
+    "bytes": 13693,
+    "sha256": "7cd69109e9dc98b9cec9fc7fa53ec84fd58ec9eb842669aa2768d122d0f83e03"
+  },
+  {
+    "number": 38,
+    "topic": 9,
+    "file": "images/38.png",
+    "caption": "Identity search",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/TG0ksV0fhRwCgBSu_2DCLuu-qTWA1zssl.png",
+    "bytes": 3134,
+    "sha256": "5f64b2ba7df627814c7ef9bffee96a6f876e4ab50acb1124378f7efb2d0e5e30"
+  },
+  {
+    "number": 39,
+    "topic": 9,
+    "file": "images/39.png",
+    "caption": "Reports by category",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/Lre7P8RVo_ORy81U_HMPJKKeGxBdwRkI2.png",
+    "bytes": 15894,
+    "sha256": "6d63dee8463f3fb25c884f66bbcf1e6e77c9a76fc9b74eec43fd7ea790cbfcfe"
+  },
+  {
+    "number": 40,
+    "topic": 10,
+    "file": "images/40.png",
+    "caption": "Employee role",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/4vJl47GT-yYBtZNl_0mmos8ALbbt4KyCl.png",
+    "bytes": 20343,
+    "sha256": "924028341c97c36257e52e7b341122b83f69ae4e61507296beaa064a56b0f3b3"
+  },
+  {
+    "number": 41,
+    "topic": 10,
+    "file": "images/41.png",
+    "caption": "Catherine and her team",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/hbUGRRjGPGm_VYxY_pBV1L9UEYG4nqRbk.png",
+    "bytes": 19185,
+    "sha256": "0a86bb8efc5993c740f472108c77110b39c11de7f729f0a21a090d04fcdc9f8e"
+  },
+  {
+    "number": 42,
+    "topic": 10,
+    "file": "images/42.png",
+    "caption": "Prism entitlements",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/YysmDagOXrPFXhLy_Q3ZK-EGi1mLLG-es.png",
+    "bytes": 3633,
+    "sha256": "924eb08d5dc858b74aa3e1e2d3dc7930aee2307485f662f3321942a71ecb107c"
+  },
+  {
+    "number": 43,
+    "topic": 10,
+    "file": "images/43.png",
+    "caption": "Inappropriate access approved",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/zmC5vuEPAroCHlnP_3vi0Kkn3Bz1Ddb5k.png",
+    "bytes": 12895,
+    "sha256": "a3419915ddfb623116f6254e299c719a6aa98d327d6a51e4af1bc01fc58d752a"
+  },
+  {
+    "number": 44,
+    "topic": 10,
+    "file": "images/44.png",
+    "caption": "Prism role",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/miH2zt-AjTds98Lt_chlB8haiW-td_w8v.png",
+    "bytes": 12382,
+    "sha256": "1b5c6014cbb4d42ff94f02b20abed9dc63f6d2977587597c18a415eeff9cf8dc"
+  },
+  {
+    "number": 45,
+    "topic": 10,
+    "file": "images/45.png",
+    "caption": "Automatic finance-role assignment",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/THENa8eKr1efiwaI_zj04e105u5sYH2VA.png",
+    "bytes": 6600,
+    "sha256": "7056ce5ad2a8f847c619635bc5f6ae6ab42e6183b8519b9d78c1384f6ee115dc"
+  },
+  {
+    "number": 46,
+    "topic": 10,
+    "file": "images/46.png",
+    "caption": "Finance-role revocation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/FS7OoNOSRl7L7M4f_WfYypZGNjAJK9OED.png",
+    "bytes": 6771,
+    "sha256": "5ca9005bdede088cab1fb7820830f08b45e02c69cc09654c41d9061903be1f17"
+  },
+  {
+    "number": 47,
+    "topic": 10,
+    "file": "images/47.png",
+    "caption": "Role modeling options",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/2fmf6nK2V_d62tn5_mDovhQsfkEmn85Vy.png",
+    "bytes": 17008,
+    "sha256": "398a21091a774cad529c17927908b5e60ba4c1f53745ecca8bf5c6905621f70e"
+  },
+  {
+    "number": 48,
+    "topic": 11,
+    "file": "images/48.jpg",
+    "caption": "Extension option card 1",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/goQ7ETc0kHSD_if2_FbH-MSTXvdWvZNOc.jpg",
+    "bytes": 6468,
+    "sha256": "d2f38493c1348ea1590adf130f3bae537fbd89ce7436081bd0453ee6c1cdd662"
+  },
+  {
+    "number": 49,
+    "topic": 11,
+    "file": "images/49.jpg",
+    "caption": "Extension option card 2",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/3Qb0b51cHLb17tbf_oYXA43HRx26Lq8_j.jpg",
+    "bytes": 5776,
+    "sha256": "81e8b481d4a51cabacf02121d8f355b8fac5a02cd39ccfe557ec5169ad21acbb"
+  },
+  {
+    "number": 50,
+    "topic": 11,
+    "file": "images/50.jpg",
+    "caption": "Extension option card 3",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/42-3G4RCxADV_G0n_JLP9VRc_lWi29ZEN.jpg",
+    "bytes": 4956,
+    "sha256": "0812c02577e537bd45a9603427876ce69b9f56f4e74469e4ae627c25d35272b1"
+  },
+  {
+    "number": 51,
+    "topic": 11,
+    "file": "images/51.jpg",
+    "caption": "Extension option card 4",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/FaZHO7GTCfU4n0KO_W2PHN66I_4-b8bsj.jpg",
+    "bytes": 4863,
+    "sha256": "859f41739294a78e7c22742a049e78951f4530e1a07197cfba15324120b50bf2"
+  },
+  {
+    "number": 52,
+    "topic": 11,
+    "file": "images/52.jpg",
+    "caption": "Extension option card 5",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/oJxbtxL95pyQT7t6_NHGRI0oKL8jMxI5C.jpg",
+    "bytes": 5982,
+    "sha256": "bc05d37246ee524453ef9cf1410885aafc8f62aa96af7c1287fcffdb347ee195"
+  },
+  {
+    "number": 53,
+    "topic": 11,
+    "file": "images/53.png",
+    "caption": "Standard and extended attributes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/jRrKKKv1XjprZhTY_PMPIsf8LjZIUpaUC.png",
+    "bytes": 14445,
+    "sha256": "6923d13bc178a0814ddf5003970d9450ffaeba62fcaf18f45d145849ad84f51d"
+  },
+  {
+    "number": 54,
+    "topic": 11,
+    "file": "images/54.png",
+    "caption": "Searchable extended attributes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/Z04Y8l2TWfkN0dZl_QvuGJusnk2Y5W8qv.png",
+    "bytes": 20458,
+    "sha256": "b73672c8766fb1dbe6f1fee8247002d431d858345b322fc2f35ec21efe3d3350"
+  },
+  {
+    "number": 55,
+    "topic": 11,
+    "file": "images/55.png",
+    "caption": "Application extended attributes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/6XqP5Ap9M1jJ9p1u_j-6C44Quwq9RU1Oj.png",
+    "bytes": 41362,
+    "sha256": "6edd3de756163820e0210f48d242c3c488201529cd027d39ab38c40e5e9fda13"
+  },
+  {
+    "number": 56,
+    "topic": 11,
+    "file": "images/56.png",
+    "caption": "Matching with extended attributes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/v-NsP860K_LPP4pC_AJwcPsU7d3VkaPBQ.png",
+    "bytes": 9193,
+    "sha256": "2309e7448c51f9973fcf02bbd3322741366e05b8299340f2c1397d1341b4785d"
+  },
+  {
+    "number": 57,
+    "topic": 11,
+    "file": "images/57.png",
+    "caption": "Conditional logic",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/hMP3dgY32sKI46FN_f2UGEZm2dIZTGC_O.png",
+    "bytes": 7245,
+    "sha256": "4f6d8b952645f00af27219f24876982127057433dd2e16e48d839eb42f135f0f"
+  },
+  {
+    "number": 58,
+    "topic": 12,
+    "file": "images/58.png",
+    "caption": "Identity University",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/5uBIGD87VugSqu2U_0y09pxCrrnHyO9C3.png",
+    "bytes": 2310,
+    "sha256": "e6ac648ff1f08efaa0e8212a56c98d03c528829385321cd49dac43180b79c747"
+  },
+  {
+    "number": 59,
+    "topic": 12,
+    "file": "images/59.png",
+    "caption": "IdentityIQ Essentials",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/Fg_H4hoL1MSWHTJg_hf9S_YUnrCM7iwLk.png",
+    "bytes": 4258,
+    "sha256": "8a7c844edea3fb9068e21fbad7af74ee6437f82f4a9e9cb0f86530e56427e59a"
+  },
+  {
+    "number": 60,
+    "topic": 12,
+    "file": "images/60.png",
+    "caption": "Advanced implementation training",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/og8YD5Gng4L8poMe_BwVhYcmf4cAiw79u.png",
+    "bytes": 9001,
+    "sha256": "5e3d0818d574a4dbdd95d33cec1234098392e02001d57002113e726ca5df4ea8"
+  },
+  {
+    "number": 61,
+    "topic": 12,
+    "file": "images/61.png",
+    "caption": "Business-administrator training",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/I1aW_vp5_t6LCyTY_K7-ANj4oxKZRNpbX.png",
+    "bytes": 4525,
+    "sha256": "8b8e2d4c589450abb7eb5426ec25ee54f49822538250d0245541f95e127c407c"
+  },
+  {
+    "number": 62,
+    "topic": 12,
+    "file": "images/62.jpg",
+    "caption": "Closing illustration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3eag6a5fbd6jx/scormcontent/assets/FaUnhj3zLMcbgYuN_d0RNfh6JeEsxtIWB.jpg",
+    "bytes": 7011,
+    "sha256": "2a5c52b030ef404cbc5799055ad0fdd6b23577c2f0abda2c81548e78c6b1e377"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "course": "IdentityIQ Introduction",
+  "source_url": "https://university.sailpoint.com/identityiq-introduction/247198/scorm/r2u6jwzmt40b",
+  "verified_date": "2026-11-15",
+  "topic_bodies_read": 12,
+  "saved_inline_images": 62,
+  "expanded_interactions": [
+    "Available flashcard back explanations",
+    "Five access-request process markers",
+    "Three event-driven provisioning accordions",
+    "Certification timeline",
+    "All four role-example tabs"
+  ],
+  "videos_not_saved_or_transcribed": [
+    {
+      "topic": 5,
+      "title": "Access Request Video Demonstration",
+      "duration_seconds_observed": 337.177007,
+      "captions": "English available; full caption track not obtained"
+    },
+    {
+      "topic": 8,
+      "title": "Detective policy usage"
+    },
+    {
+      "topic": 8,
+      "title": "Preventative policy usage"
+    },
+    {
+      "topic": 9,
+      "title": "Identity Search Video Demonstration"
+    },
+    {
+      "topic": 9,
+      "title": "Reports Video Demonstration"
+    }
+  ],
+  "known_unsaved_background_paths": [
+    "assets/7bqu0YcCdYq8B-6W_transcoded-Ckmrw2_S5RHMOsdD-access%20request-00001.png",
+    "assets/0mOQzlQCui6qzzDz_transcoded-7P6XR6ebh0Q0IYqz-Policy%20Usage_Compliance_Detective-00001.png",
+    "assets/HU89i2oenZh3ezYB_transcoded-eJOUPwil7QwrECMI-Policy%20Usage_%20Provisioning_Preventative-00001.png",
+    "assets/Q6UI-dVi574AsY4n_transcoded-bOvB6BBbKvbAjCfV-identity%20search-00001.png",
+    "assets/TYMOuNoOUX0-2Jja_transcoded-WHT4DHb_VbvWRZdl-running%20a%20report-00001.png"
+  ],
+  "limitations": [
+    "External linked resources not archived",
+    "No complete original audiovisual copy",
+    "No quiz or live IdentityIQ action submitted"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "edition": "Initial",
+  "path_complete": false,
+  "teaching_courses": 5,
+  "courses_with_notes": 1,
+  "topics_with_notes": 12,
+  "saved_inline_images": 62,
+  "video_transcripts_pending": 5,
+  "next_course": "IdentityIQ Essentials",
+  "restricted_course": "IdentityIQ Implementation: Advanced Provisioning and Workflows",
+  "restriction": "Completion of an accepted IdentityIQ Essentials course required before registration",
+  "verified_date": "2026-11-15"
+}

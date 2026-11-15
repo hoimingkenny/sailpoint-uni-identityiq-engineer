@@ -1,0 +1,461 @@
+{
+  "path": "Identity Security Engineer, IdentityIQ",
+  "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq",
+  "verified_date": "2026-11-15",
+  "displayed_duration_minutes": 3630,
+  "teaching_courses": 5,
+  "exam_entries": 2,
+  "entries": [
+    {
+      "position": 1,
+      "title": "IdentityIQ Introduction",
+      "type": "teaching",
+      "duration_minutes": 120,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-introduction",
+      "capture_status": "English notes compiled for all twelve topics; media gaps documented",
+      "outer_teaching_modules": 1,
+      "internal_topic_count": 12
+    },
+    {
+      "position": 2,
+      "title": "IdentityIQ Essentials",
+      "type": "teaching",
+      "duration_minutes": 1050,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1",
+      "capture_status": "Outline verified; lesson notes pending",
+      "modules": [
+        {
+          "number": 1,
+          "title": "Course Overview",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 2,
+          "title": "IdentityIQ Technical Overview",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 3,
+          "title": "IdentityIQ Functional Elements",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 4,
+          "title": "IdentityIQ Implementation Overview",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 5,
+          "title": "Product Architecture",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 6,
+          "title": "IdentityIQ Installation",
+          "duration_minutes": 50,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 7,
+          "title": "Creating Identity Cubes",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 8,
+          "title": "Identity Attributes and Mappings",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 9,
+          "title": "Authentication and Authorization",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 10,
+          "title": "Organizing Identities",
+          "duration_minutes": 75,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 11,
+          "title": "Onboarding Additional Applications",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 12,
+          "title": "Account Correlation",
+          "duration_minutes": 55,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 13,
+          "title": "IdentityIQ Connectors",
+          "duration_minutes": 65,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 14,
+          "title": "Data Oversight",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 15,
+          "title": "System Oversight",
+          "duration_minutes": 70,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 16,
+          "title": "Logging",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 17,
+          "title": "Troubleshooting",
+          "duration_minutes": 70,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 18,
+          "title": "Introduction to Policies",
+          "duration_minutes": 20,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 19,
+          "title": "Introduction to Certification",
+          "duration_minutes": 55,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 20,
+          "title": "Introduction to Roles",
+          "duration_minutes": 55,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 21,
+          "title": "Provisioning Overview",
+          "duration_minutes": 30,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 22,
+          "title": "Monitoring Provisioning",
+          "duration_minutes": 55,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 23,
+          "title": "Rapid Setup Lifecycle Events",
+          "duration_minutes": 20,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 24,
+          "title": "Lifecycle Event Configuration",
+          "duration_minutes": 15,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 25,
+          "title": "Lifecycle Manager Requests",
+          "duration_minutes": 20,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 26,
+          "title": "Manage User Access",
+          "duration_minutes": 70,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 27,
+          "title": "Additional Access Request Options",
+          "duration_minutes": 65,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 28,
+          "title": "Other Lifecycle Manager Requests",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 29,
+          "title": "Automated Provisioning",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 30,
+          "title": "Other Provisioning Requests",
+          "duration_minutes": 55,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 31,
+          "title": "System Architecture and Deployment",
+          "duration_minutes": 5,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 32,
+          "title": "Deployment Process Management",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 33,
+          "title": "Getting Help",
+          "duration_minutes": 5,
+          "notes_status": "Not yet compiled"
+        }
+      ],
+      "internal_topic_inventory": "Not yet inspected",
+      "supporting_entries": [
+        "Accessing the Virtual Machine",
+        "Course Files",
+        "My lab",
+        "Start Here"
+      ],
+      "wrap_up": [
+        "Assessment",
+        "Course Rating",
+        "Next Steps"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "SailPoint Certified IdentityIQ Associate",
+      "type": "exam",
+      "duration_minutes": null,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/sailpoint-certified-identityiq-associate-1",
+      "capture_status": "Exam content excluded"
+    },
+    {
+      "position": 4,
+      "title": "IdentityIQ Rules, Scripts, and API",
+      "type": "teaching",
+      "duration_minutes": 360,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api",
+      "capture_status": "Module player accessible; eight internal topic titles verified; notes pending",
+      "outer_teaching_modules": 1,
+      "internal_topics": [
+        {
+          "number": 1,
+          "title": "Course Overview",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 2,
+          "title": "1 Rules, Scripts, and BeanShell",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 3,
+          "title": "2 API Introduction",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 4,
+          "title": "3 SailPointContext",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 5,
+          "title": "4 Object Model",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 6,
+          "title": "5 Common API Uses",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 7,
+          "title": "6 Best Practices",
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 8,
+          "title": "7 Next Steps",
+          "notes_status": "Not yet compiled"
+        }
+      ],
+      "supporting_entries": [
+        "Acessing the Virtual Machine",
+        "Course Files",
+        "My lab"
+      ],
+      "wrap_up": [
+        "Course Rating",
+        "Next Steps"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "IdentityIQ Custom Reports",
+      "type": "teaching",
+      "duration_minutes": 180,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports",
+      "capture_status": "Outline verified; lesson notes pending",
+      "modules": [
+        {
+          "number": 1,
+          "title": "Course Introduction",
+          "duration_minutes": 10,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 2,
+          "title": "Configuring Reports",
+          "duration_minutes": 20,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 3,
+          "title": "Report TaskDefinition Components",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 4,
+          "title": "Defining Report Contents",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 5,
+          "title": "Custom Filter Report",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 6,
+          "title": "RenderScript",
+          "duration_minutes": 25,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 7,
+          "title": "Report Forms",
+          "duration_minutes": 30,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 8,
+          "title": "Report Summary and Chart",
+          "duration_minutes": 20,
+          "notes_status": "Not yet compiled"
+        }
+      ],
+      "internal_topic_inventory": "Not yet inspected",
+      "supporting_entries": [
+        "Accessing the Virtual Machine",
+        "Course Files",
+        "My lab"
+      ],
+      "wrap_up": [
+        "Course Rating",
+        "Next Steps"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "IdentityIQ Implementation: Advanced Provisioning and Workflows",
+      "type": "teaching",
+      "duration_minutes": 1920,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-implementation-advanced-provisioning-and-workflows",
+      "capture_status": "Restricted: prerequisite completion required",
+      "modules": [
+        {
+          "number": 1,
+          "title": "Course Overview",
+          "duration_minutes": 30,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 2,
+          "title": "Workflows",
+          "duration_minutes": 180,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 3,
+          "title": "Provisioning",
+          "duration_minutes": 240,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 4,
+          "title": "Advanced LCM Configuration",
+          "duration_minutes": 240,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 5,
+          "title": "QuickLinks and LCM Provisioning",
+          "duration_minutes": 240,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 6,
+          "title": "Troubleshooting",
+          "duration_minutes": 210,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 7,
+          "title": "Approvals, WorkItems, Forms, Notifications",
+          "duration_minutes": 240,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 8,
+          "title": "Auditing and Advanced Topics",
+          "duration_minutes": 180,
+          "notes_status": "Not yet compiled"
+        },
+        {
+          "number": 9,
+          "title": "Build as You Go Lab",
+          "duration_minutes": 360,
+          "notes_status": "Not yet compiled"
+        }
+      ],
+      "internal_topic_inventory": "Not yet inspected",
+      "supporting_entries": [
+        "Accessing the Virtual Machine",
+        "Course Files",
+        "My lab"
+      ],
+      "wrap_up": [
+        "Course Rating",
+        "Identity Security Engineer, IdentityIQ: Learning Path Survey",
+        "Next Steps"
+      ],
+      "access_message": "In order to register, you must complete any one of the listed IdentityIQ Essentials course versions."
+    },
+    {
+      "position": 7,
+      "title": "SailPoint Certified IdentityIQ Engineer",
+      "type": "exam",
+      "duration_minutes": null,
+      "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/sailpoint-certified-identityiq-engineer-1",
+      "capture_status": "Exam content excluded"
+    }
+  ],
+  "counting_note": "The path has five teaching courses and two exam entries. Outer course modules and inner SCORM topics are different levels; a complete path-wide internal topic count is not yet verified."
+}

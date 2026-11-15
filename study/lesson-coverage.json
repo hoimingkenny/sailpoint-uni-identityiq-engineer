@@ -1,0 +1,110 @@
+[
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 1,
+    "title": "Course Overview",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 2,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 2,
+    "title": "Interacting with Course Content",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 3,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 3,
+    "title": "Introducing IdentityIQ",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 10,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 4,
+    "title": "Identities: Core of Security",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 7,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 5,
+    "title": "Access Requests",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 2,
+    "video_gap": true
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 6,
+    "title": "Event-Driven Provisioning",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 4,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 7,
+    "title": "Certification and Access Reviews",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 4,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 8,
+    "title": "Policies",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 5,
+    "video_gap": true
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 9,
+    "title": "Analytics and Reports",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 2,
+    "video_gap": true
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 10,
+    "title": "Roles",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 8,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 11,
+    "title": "Extending IdentityIQ",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 10,
+    "video_gap": false
+  },
+  {
+    "course": "IdentityIQ Introduction",
+    "level": "internal topic",
+    "number": 12,
+    "title": "Next Steps",
+    "notes_status": "English paraphrased notes available",
+    "saved_image_files": 5,
+    "video_gap": false
+  }
+]
