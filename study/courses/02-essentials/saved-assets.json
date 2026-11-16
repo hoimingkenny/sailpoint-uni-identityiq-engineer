@@ -1,0 +1,394 @@
+[
+  {
+    "file": "images/exercise-009.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 9,
+    "bytes": 218319,
+    "sha256": "8e4ad6c085d5c21e2742c032f4dd0e3c1e6e4f8a8c2123283a76b5f4b44e6c7b"
+  },
+  {
+    "file": "images/exercise-010.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 10,
+    "bytes": 264694,
+    "sha256": "5b33bbfccacfdb14bccd43b893c5221646df32973eeab003dfbd0e267bfcd702"
+  },
+  {
+    "file": "images/exercise-011.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 11,
+    "bytes": 198362,
+    "sha256": "7d6807937bb001890c363549b22ee6d7734f7103d576d50222b27390fdd8c8ca"
+  },
+  {
+    "file": "images/exercise-012.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 12,
+    "bytes": 163412,
+    "sha256": "d21efae1a0e2edc06614946c5e366af59492c99fd0071db97669b72ccde89093"
+  },
+  {
+    "file": "images/exercise-013.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 13,
+    "bytes": 161681,
+    "sha256": "8dea99a2f79fb231adb8db1ccdcc58562914b83a957305e94030cdb438064f10"
+  },
+  {
+    "file": "images/exercise-014.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 14,
+    "bytes": 228719,
+    "sha256": "4b25ebe13a1a0489e022600c56897da75e90cb60e6bed8bec560f7bd976ace33"
+  },
+  {
+    "file": "images/exercise-015.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 15,
+    "bytes": 246426,
+    "sha256": "1ed7269170da9954bcab6f9eae9750ddeca68d6c5da9c4bcf3b2324c1264cd64"
+  },
+  {
+    "file": "images/exercise-016.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 16,
+    "bytes": 168400,
+    "sha256": "1292719adea71721fb87c011381fa90d2b4ec822174bd478040274f6b7d95d70"
+  },
+  {
+    "file": "images/exercise-017.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 17,
+    "bytes": 181767,
+    "sha256": "65d9b6e7b0a8ac32e1417c38e1ec64f1248f62748ffb9d2386f863abb1c3eab7"
+  },
+  {
+    "file": "images/slide-001.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 1,
+    "bytes": 131385,
+    "sha256": "09b1a85a3a3eaf06781beadd9eed4e1dbb1ae6e3a9a312ed27738c4f4df80b2f"
+  },
+  {
+    "file": "images/slide-002.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 2,
+    "bytes": 74379,
+    "sha256": "3f5dfe28991acfe5709d52e3343867e301ca2232870a05699c010a67ff84a4f8"
+  },
+  {
+    "file": "images/slide-003.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 3,
+    "bytes": 122831,
+    "sha256": "096ea599a57e3f59ed6cc33bbcbe02bc0c6f70d74158873ba5cfaf6910ecef47"
+  },
+  {
+    "file": "images/slide-004.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 4,
+    "bytes": 151984,
+    "sha256": "86736bbbf9015d6ae2743cd419debb609cfeba1e064861c3e46281aa4143bae5"
+  },
+  {
+    "file": "images/slide-005.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 5,
+    "bytes": 193062,
+    "sha256": "362ad521ce04c4c74d39ca12fb6d17df14e8968cdd813f29e9cb4e0f937e8b3f"
+  },
+  {
+    "file": "images/slide-006.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 6,
+    "bytes": 207298,
+    "sha256": "cedc8b83c0b2e92dca682fae10d368f2e57f17847381d9f8d484a4eebf6d5c96"
+  },
+  {
+    "file": "images/slide-007.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 7,
+    "bytes": 193452,
+    "sha256": "3381a48829bb0954187b15cb948e1603b357de5274630337db19f0fe93c7c754"
+  },
+  {
+    "file": "images/slide-008.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 8,
+    "bytes": 40437,
+    "sha256": "19b38836cf3f2def677c297c23a21d566ec1cd05ae0161bcb24933e8033323ab"
+  },
+  {
+    "file": "images/slide-010.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 10,
+    "bytes": 129758,
+    "sha256": "431259b61c40b4e1751da81fe8a6042a489ad6c0cf0506e7ed4a0d47a0865fbd"
+  },
+  {
+    "file": "images/slide-011.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 11,
+    "bytes": 55174,
+    "sha256": "c3364d588d682bd49dcc5b3f4001650a3612372bab5442fc4a27a53587c12540"
+  },
+  {
+    "file": "images/slide-012.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 12,
+    "bytes": 207235,
+    "sha256": "3531eb0b7f3b727dd5edc8deb1557ab1396082c4a48fd63e3cebb155f2d40264"
+  },
+  {
+    "file": "images/slide-013.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 13,
+    "bytes": 126306,
+    "sha256": "9fffffa68360861d1a7348bc4fdbe01d49f139e78b81faf5764378f832714070"
+  },
+  {
+    "file": "images/slide-014.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 14,
+    "bytes": 226224,
+    "sha256": "f834b2d6ea2e1484eb7d713aa85f11b60bfd7294d2a57c293b721218302ca7b0"
+  },
+  {
+    "file": "images/slide-015.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 15,
+    "bytes": 267267,
+    "sha256": "2d92e15439f801ffe7425f79cd24152071a7b2efd742b9fb024338118fa3567e"
+  },
+  {
+    "file": "images/slide-016.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 16,
+    "bytes": 193152,
+    "sha256": "8b226bbdbe9759dc451a5583bb944e7069ab538bca0537f59b4bcbafeddbe23f"
+  },
+  {
+    "file": "images/slide-017.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 17,
+    "bytes": 40423,
+    "sha256": "3dcb98cf0e06983b89af2400b119491f39ac1671694766ad6d1e2f67523bbb57"
+  },
+  {
+    "file": "images/slide-019.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 19,
+    "bytes": 134530,
+    "sha256": "937c6a1a157f54ae80efd22faa2942c64ff09f5fac7643196a25ea97d7d817a3"
+  },
+  {
+    "file": "images/slide-020.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 20,
+    "bytes": 170380,
+    "sha256": "5d8e9176baaa2c6a0e0678ce43e9c947be6f0d781fb75faf08fbcf8ddab05b87"
+  },
+  {
+    "file": "images/slide-021.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 21,
+    "bytes": 176257,
+    "sha256": "e2c831fbc9af6c34100076b59eaf2490bcb07c49842bc2b0454105499bfb841d"
+  },
+  {
+    "file": "images/slide-022.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 22,
+    "bytes": 40595,
+    "sha256": "df90ca80bec899b03203eaff37f57f23a3b40a1a82bb13fbae90aa2e50675e7d"
+  },
+  {
+    "file": "images/slide-023.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 23,
+    "bytes": 167206,
+    "sha256": "6e387b25024aac53ef0767e23727c1637a3bda3e70db3a4394b08803e3719dbe"
+  },
+  {
+    "file": "images/slide-024.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 24,
+    "bytes": 58064,
+    "sha256": "8c95f7606c1c950b965b200256ac29cd96a2cfcd90d63aeb559bba172fe554a6"
+  },
+  {
+    "file": "images/slide-025.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 25,
+    "bytes": 108740,
+    "sha256": "58ee6b34a8e6708bf57c33af4fe69571ffe045bf196be432c41ce6dd0b8c2556"
+  },
+  {
+    "file": "images/slide-027.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 27,
+    "bytes": 125632,
+    "sha256": "49e78f2a32851958f979e053452c74fefb4d08511dd3ad78f9946a7200f8de24"
+  },
+  {
+    "file": "images/slide-028.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 28,
+    "bytes": 158742,
+    "sha256": "cb15754930b9a081873ce151402546fd25fb7f92077ea5bc21a5788137a0d24d"
+  },
+  {
+    "file": "images/slide-029.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 29,
+    "bytes": 258496,
+    "sha256": "1a242ae90000b625260b47b2ed2c3e92dcc7da0e7fe16d08cbfead84501a7eb1"
+  },
+  {
+    "file": "images/slide-030.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 30,
+    "bytes": 206556,
+    "sha256": "52e4551d663003d356759ba7e5f05e8dfcda1a31442a5fcbf9e67de4f6941a75"
+  },
+  {
+    "file": "images/slide-031.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 31,
+    "bytes": 40437,
+    "sha256": "21d1a1d56975b6a6b56fa8cce1079193826b43bef790cf3f95766147e84e2755"
+  },
+  {
+    "file": "images/slide-033.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 33,
+    "bytes": 125834,
+    "sha256": "c48c2ab7fa45a099cfdd0758095c2ca93ac81181c88524a029c9f9986d633bb8"
+  },
+  {
+    "file": "images/slide-034.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 34,
+    "bytes": 232280,
+    "sha256": "6b6c0d6d1eea302fa786beee043b664ad7897654c20d1db667e7b5cc44f4b381"
+  },
+  {
+    "file": "images/slide-035.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 35,
+    "bytes": 246699,
+    "sha256": "89cecee21b056ef7e0a250d7ea30a569405bb9faecf7c8afa2918731d26b825a"
+  },
+  {
+    "file": "images/slide-036.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 36,
+    "bytes": 138924,
+    "sha256": "be15184b965070eb3b13338227cf0b0020b1575354ed3ae23518f6dc74b2e4ab"
+  },
+  {
+    "file": "images/slide-037.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 37,
+    "bytes": 303196,
+    "sha256": "fb1f092dccbcc38f64c10e75f11a9258abd1424823bb473abe17a5606b764acd"
+  },
+  {
+    "file": "images/slide-038.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 38,
+    "bytes": 257957,
+    "sha256": "d02823b43571ec1d9bf972662095c5c5962d193cf28c9d81e8d417d504a373a2"
+  },
+  {
+    "file": "images/slide-039.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 39,
+    "bytes": 150842,
+    "sha256": "b1d5718619cdc88b2f256df625d62da5583424ec6ea330387668d172d91ff20f"
+  },
+  {
+    "file": "images/slide-040.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 40,
+    "bytes": 165912,
+    "sha256": "3f37ac935e1e3812613530f5d44fa5c93cf237bc6c24b699e6a165dadcb3796e"
+  },
+  {
+    "file": "images/slide-041.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 41,
+    "bytes": 153645,
+    "sha256": "dc2b8a1e1ec8ccd04b5709e8266076850d62ced7e4bf28b60cad2fb78d9c1399"
+  },
+  {
+    "file": "images/slide-042.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 42,
+    "bytes": 228216,
+    "sha256": "0c34a9cecfef924680790c9f06d5c45cf02d0324466312fbbe3a2c1e5e9dc3c1"
+  },
+  {
+    "file": "images/slide-043.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 43,
+    "bytes": 151551,
+    "sha256": "baf2fe6789cdaeaee808229058cb1c5cc0b121144ebc2f567ece193199e9fa3f"
+  },
+  {
+    "file": "images/slide-044.png",
+    "kind": "original PDF page rendered to PNG",
+    "source_file": "handouts/presentations.pdf",
+    "pdf_page": 44,
+    "bytes": 40503,
+    "sha256": "0fcdf3c51b9ced692e486a7d352ce9e25901491521ca01a95defd3bbdc8d44d1"
+  }
+]

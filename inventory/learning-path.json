@@ -22,43 +22,76 @@
       "type": "teaching",
       "duration_minutes": 1050,
       "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1",
-      "capture_status": "Outline verified; lesson notes pending",
+      "capture_status": "Modules 1–6: English notes, caption-search explanations and 49 handout page illustrations; Modules 7–33 pending",
       "modules": [
         {
           "number": 1,
           "title": "Course Overview",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251131/scorm/je4cdqpwnmv2",
+          "presentation_pdf_pages": null
         },
         {
           "number": 2,
           "title": "IdentityIQ Technical Overview",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/290869/scorm/1ada1jok6rnbp",
+          "presentation_pdf_pages": [
+            1,
+            9
+          ]
         },
         {
           "number": 3,
           "title": "IdentityIQ Functional Elements",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251133/scorm/3jifn8pmnj9p1",
+          "presentation_pdf_pages": [
+            10,
+            18
+          ]
         },
         {
           "number": 4,
           "title": "IdentityIQ Implementation Overview",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251136/scorm/2jkfbl4hphivg",
+          "presentation_pdf_pages": [
+            19,
+            26
+          ]
         },
         {
           "number": 5,
           "title": "Product Architecture",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251139/scorm/1jpi3clgbldow",
+          "presentation_pdf_pages": [
+            27,
+            32
+          ]
         },
         {
           "number": 6,
           "title": "IdentityIQ Installation",
           "duration_minutes": 50,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "caption_search_reviewed": true,
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251140/scorm/2symz4mv8vgfw",
+          "presentation_pdf_pages": [
+            33,
+            45
+          ]
         },
         {
           "number": 7,

@@ -1,27 +1,32 @@
 # Identity Security Engineer, IdentityIQ — Study Notes
 
-Personal English study notes for the SailPoint University learning path. This is an **initial, incomplete edition**.
+Personal English learning notes for the SailPoint University path. **The learning path remains incomplete.** Updated 16 November 2026.
 
-## Read the learning material
+## Read the material
 
-Open **[the offline study book](study/index.html)** after cloning or downloading the repository. It includes the actual Introduction notes, an in-page topic search and the retained illustrations. Select any illustration to open its original local image.
+- **[IdentityIQ Essentials — Modules 1–6 and Exercise 1](study/courses/02-essentials/notes.md)**: Course Overview, Technical Overview, Functional Elements, Implementation Overview, Product Architecture and Installation. About 4,600 words with 49 original English handout page illustrations. Modules 7–33 are pending.
+- **[IdentityIQ Introduction — twelve topics](study/courses/01-introduction/notes.md)**: detailed English explanations with 62 saved original inline images; five demonstrations remain untranscribed.
+- **[Complete verified course outline](inventory/learning-path.md)** and **[coverage / missing-material report](study/coverage-report.md)**.
 
-For reading directly on GitHub, open **[IdentityIQ Introduction notes](study/courses/01-introduction/notes.md)**.
+After cloning or downloading the repository, open **[the searchable offline book](study/index.html)**. It contains the actual notes from both courses in reading order. Select an illustration to open its full local image. The separate **[Essentials reader](study/courses/02-essentials/index.html)** includes a status table for all 33 numbered modules.
 
-- **Introduction:** twelve topics with substantive English paraphrased notes, expanded explanations and 62 saved inline image files.
-- **Media gaps:** five demonstrations are not saved or fully transcribed; five known video-poster backgrounds are not saved.
-- **Remaining courses:** outlines recorded; study notes pending. Advanced Provisioning and Workflows requires completion of IdentityIQ Essentials before registration.
-- **Whole path:** five teaching courses, displayed duration 60 hours 30 minutes, plus two separate certification exam entries. A complete internal lesson total is not yet verified.
+## Current coverage
 
-See the **[full course and module outline](inventory/learning-path.md)** and **[coverage / missing-material report](study/coverage-report.md)**. The report distinguishes pending work from restricted access.
+The path lists five teaching courses with a displayed duration of 60 hours 30 minutes, plus two certification exams. A whole-path internal lesson count is not yet verified.
 
-## Organization
+Essentials notes draw on accessible video caption-search results, the provided presentation handout, and the relevant exercise-guide pages. The original 461-page slide PDF and 257-page exercise guide are saved under [Essentials handouts](study/courses/02-essentials/handouts/). Saving the complete handouts does not mean their later modules have been rewritten. The source guide identifies IdentityIQ 8.2b; original version-specific examples are explained as course context.
 
-- `study/` — offline HTML reader, English Markdown notes, original saved illustrations and coverage records.
-- `inventory/` — verified path structure and topic list.
-- `capture-progress.json` — machine-readable progress; the whole path is explicitly incomplete.
-- `tools/build_reader.py` — rebuilds the self-contained HTML reader from Markdown and verifies all saved illustration hashes.
+There are **111 image files**: 62 Introduction inline originals and 49 Essentials PDF-page renders. Original English text in the images is preserved. Full videos, changing video frames, interactive checks and some linked resources remain missing. No VM operations or live IdentityIQ changes were performed; exercise steps are study instructions.
 
-Build with Python 3: `python3 tools/build_reader.py`. No external packages or internet connection are required to read or rebuild the notes.
+Rules / Scripts / API and Custom Reports remain at outline-only coverage. Advanced Provisioning and Workflows requires completion of an accepted Essentials course before registration. Certification exam content is excluded.
 
-The notes follow course order with prose rewritten for study. Saved images retain their original English and belong to their respective owners. This personal study repository is not an official SailPoint publication. No certification exam content is reproduced, and no access controls or DRM were bypassed. Verification date: 15 November 2026.
+## Repository structure
+
+- `study/` — searchable offline HTML, English Markdown, illustrations, original handouts and coverage records.
+- `inventory/` — verified path and module structure.
+- `capture-progress.json` — explicit progress and next module: **Essentials 7 — Creating Identity Cubes**.
+- `tools/build_reader.py` — rebuilds the reader, coverage CSV and progress report; verifies illustration hashes and references.
+
+Rebuild with Python 3: `python3 tools/build_reader.py`. No external packages or internet connection are required to read or rebuild the saved notes.
+
+The prose is paraphrased and follows course order. Original materials belong to their respective owners. This is a personal study repository, not an official SailPoint publication. No access controls or DRM were bypassed.

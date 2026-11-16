@@ -1,13 +1,13 @@
 # Coverage and Missing Material
 
-This is an initial study edition, not a complete copy of the 60-hour-30-minute learning path. Five teaching courses and two separate certification exam entries are listed in the verified path. Only Introduction currently has substantive notes.
+**This is an incomplete study edition.** The verified learning path lists five teaching courses with a displayed duration of 60 hours 30 minutes, plus two certification exam entries. Introduction has twelve topic notes. Essentials now has notes for its first six of 33 numbered teaching modules.
 
-## Course coverage
+## Course status
 
-| Course | Current status |
+| Course | Coverage |
 | --- | --- |
 | IdentityIQ Introduction | English notes compiled for all twelve topics; media gaps documented |
-| IdentityIQ Essentials | Outline verified; lesson notes pending |
+| IdentityIQ Essentials | Modules 1–6: English notes, caption-search explanations and 49 handout page illustrations; Modules 7–33 pending |
 | SailPoint Certified IdentityIQ Associate | Exam content excluded |
 | IdentityIQ Rules, Scripts, and API | Module player accessible; eight internal topic titles verified; notes pending |
 | IdentityIQ Custom Reports | Outline verified; lesson notes pending |
@@ -16,36 +16,28 @@ This is an initial study edition, not a complete copy of the 60-hour-30-minute l
 
 ## IdentityIQ Introduction
 
-All twelve topic bodies were read in course order. Available flashcards, five access-request markers, three event accordions, the certification timeline and four role-example tabs were expanded into English paraphrased notes. The 62 downloaded inline image files retain their original bytes and English content. This does not establish that all visual assets of the original course were saved.
+All twelve topic bodies were read with available flashcards, five request markers, three event accordions, the certification timeline and four role-example tabs. Sixty-two downloaded inline images are included unchanged.
 
-### Videos not saved or fully transcribed
+The following videos are **not saved or fully transcribed**: Access Request (Topic 5); Detective and Preventative Policy Usage (Topic 8); Identity Search and Reports (Topic 9). Five associated poster backgrounds were also not saved. Exact observed paths are recorded in [Introduction coverage](courses/01-introduction/coverage.json). External linked resources are not comprehensively archived.
 
-The following demonstrations remain gaps. Their narration and complete screen-by-screen operations are not represented by the notes. English captions were available for the access-request demonstration, but a complete transcript was not obtained.
+## IdentityIQ Essentials
 
-- Topic 5: Access Request Video Demonstration.
-- Topic 8: Detective policy usage.
-- Topic 8: Preventative policy usage.
-- Topic 9: Identity Search Video Demonstration.
-- Topic 9: Reports Video Demonstration.
+Modules 1–6 have English paraphrased notes based on the accessible Camtasia caption-search results and the relevant handouts. Forty nonblank presentation pages and nine Exercise 1 guide pages are rendered as 49 illustrations. These are original English PDF-page illustrations, not extracted video frames. Both official handouts are saved in full: 461 presentation pages and 257 exercise-guide pages. Later pages remain unprocessed as study notes.
 
-### Known unsaved video-poster backgrounds
+Caption search can contain duplicate lines or formatting artifacts and does not certify a word-perfect transcript. Uncaptioned visuals, animation and all changing video frames have not been fully captured. Original videos and executable knowledge checks are not archived.
 
-The following background paths were observed in the original player but are not included as local images. They are relative to the course content directory.
+Modules **7–33** remain pending. The Accessing the Virtual Machine lesson, My lab interface, remaining exercise instructions, appendix procedures and linked references are not yet incorporated. Start Here was empty in the inspected state; its automatic LMS completion marker does not establish completion of other content. No VM operations or live configuration changes were performed.
 
-- `assets/7bqu0YcCdYq8B-6W_transcoded-Ckmrw2_S5RHMOsdD-access%20request-00001.png`
-- `assets/0mOQzlQCui6qzzDz_transcoded-7P6XR6ebh0Q0IYqz-Policy%20Usage_Compliance_Detective-00001.png`
-- `assets/HU89i2oenZh3ezYB_transcoded-eJOUPwil7QwrECMI-Policy%20Usage_%20Provisioning_Preventative-00001.png`
-- `assets/Q6UI-dVi574AsY4n_transcoded-bOvB6BBbKvbAjCfV-identity%20search-00001.png`
-- `assets/TYMOuNoOUX0-2Jja_transcoded-WHT4DHb_VbvWRZdl-running%20a%20report-00001.png`
+The guide identifies IdentityIQ 8.2b / 2021; some slides show 8.1 and 2020 examples. Platform lists and settings are presented as course-version material. The Module 6 player heading incorrectly says Product Architecture; its captions and navigation describe Installation. The slide spelling Accelerator Park differs from the narration Accelerator Pack. Original illustrations are unchanged.
 
-## Pending and restricted content
+See [the detailed Essentials evidence record](courses/02-essentials/coverage.json), [Essentials notes](courses/02-essentials/notes.md), and the [per-topic / module coverage CSV](lesson-coverage.csv).
 
-Essentials, Rules / Scripts / API, and Custom Reports have verified outlines, but their teaching explanations, images and expanded interactions are still pending. Pending work is not an access-denied finding. Internal lesson totals across the whole path have not yet been verified, so outer module counts and internal topics must not be added together as a complete lesson total.
+## Restricted and excluded content
 
-Advanced Provisioning and Workflows requires completion of an accepted IdentityIQ Essentials course before registration. Only its visible nine-module outline was recorded. No prerequisite or registration restriction was bypassed.
+Advanced Provisioning and Workflows requires completion of an accepted IdentityIQ Essentials course before registration. Only its visible outline has been recorded. No prerequisite restriction was bypassed.
 
-Certification exam content is excluded. No assessment answers, live tenant operations or lab configuration changes were submitted.
+Rules / Scripts / API and Custom Reports remain at outline-only coverage. Certification exam questions and answers are excluded; no assessment attempt was submitted. The exercise Answer Key was not used.
 
-External resources and linked downloads are not comprehensively archived. Interactive execution, LMS progress tracking, audiovisual playback and original screen layout are not reproduced. Illustrations open in their original local files when selected.
+The full internal lesson count across all courses is not verified. Do not add outer numbered modules to internal SCORM topics and interpret that as a complete path lesson total.
 
-See [the complete verified outline](../inventory/learning-path.md), [topic coverage CSV](lesson-coverage.csv), and [Introduction source and media record](courses/01-introduction/coverage.json).
+The reader uses an offline reading layout, rather than recreating the original LMS screens. Source diagrams, interface illustrations and icons are retained inside the saved inline images or PDF pages described above. A complete all-media copy of the learning path has not been achieved.

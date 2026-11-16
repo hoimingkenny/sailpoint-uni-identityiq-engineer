@@ -25,7 +25,7 @@ Status: English notes compiled for all twelve topics; media gaps documented
 
 ### 2. IdentityIQ Essentials
 
-Status: Outline verified; lesson notes pending
+Status: Modules 1–6 have English notes based on caption-search explanations and handouts, with 49 original English page illustrations. Modules 7–33 remain pending. Updated 16 November 2026.
 
 [Open source](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1)
 

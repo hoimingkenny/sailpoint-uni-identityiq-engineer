@@ -1,13 +1,46 @@
-course,level,number,title,notes_status,saved_image_files,video_gap
-IdentityIQ Introduction,internal topic,1,Course Overview,English paraphrased notes available,2,False
-IdentityIQ Introduction,internal topic,2,Interacting with Course Content,English paraphrased notes available,3,False
-IdentityIQ Introduction,internal topic,3,Introducing IdentityIQ,English paraphrased notes available,10,False
-IdentityIQ Introduction,internal topic,4,Identities: Core of Security,English paraphrased notes available,7,False
-IdentityIQ Introduction,internal topic,5,Access Requests,English paraphrased notes available,2,True
-IdentityIQ Introduction,internal topic,6,Event-Driven Provisioning,English paraphrased notes available,4,False
-IdentityIQ Introduction,internal topic,7,Certification and Access Reviews,English paraphrased notes available,4,False
-IdentityIQ Introduction,internal topic,8,Policies,English paraphrased notes available,5,True
-IdentityIQ Introduction,internal topic,9,Analytics and Reports,English paraphrased notes available,2,True
-IdentityIQ Introduction,internal topic,10,Roles,English paraphrased notes available,8,False
-IdentityIQ Introduction,internal topic,11,Extending IdentityIQ,English paraphrased notes available,10,False
-IdentityIQ Introduction,internal topic,12,Next Steps,English paraphrased notes available,5,False
+course,level,number,title,notes_status,media_status
+IdentityIQ Introduction,internal topic,1,Course Overview,English paraphrased notes available,2 inline images; see coverage record
+IdentityIQ Introduction,internal topic,2,Interacting with Course Content,English paraphrased notes available,3 inline images; see coverage record
+IdentityIQ Introduction,internal topic,3,Introducing IdentityIQ,English paraphrased notes available,10 inline images; see coverage record
+IdentityIQ Introduction,internal topic,4,Identities: Core of Security,English paraphrased notes available,7 inline images; see coverage record
+IdentityIQ Introduction,internal topic,5,Access Requests,English paraphrased notes available,2 inline images; video gap
+IdentityIQ Introduction,internal topic,6,Event-Driven Provisioning,English paraphrased notes available,4 inline images; see coverage record
+IdentityIQ Introduction,internal topic,7,Certification and Access Reviews,English paraphrased notes available,4 inline images; see coverage record
+IdentityIQ Introduction,internal topic,8,Policies,English paraphrased notes available,5 inline images; video gap
+IdentityIQ Introduction,internal topic,9,Analytics and Reports,English paraphrased notes available,2 inline images; video gap
+IdentityIQ Introduction,internal topic,10,Roles,English paraphrased notes available,8 inline images; see coverage record
+IdentityIQ Introduction,internal topic,11,Extending IdentityIQ,English paraphrased notes available,10 inline images; see coverage record
+IdentityIQ Introduction,internal topic,12,Next Steps,English paraphrased notes available,5 inline images; see coverage record
+IdentityIQ Essentials,numbered teaching module,1,Course Overview,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,2,IdentityIQ Technical Overview,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,3,IdentityIQ Functional Elements,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,4,IdentityIQ Implementation Overview,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,5,Product Architecture,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,6,IdentityIQ Installation,English paraphrased notes available,Caption-search text reviewed; handout illustrations included where available; audiovisual gaps
+IdentityIQ Essentials,numbered teaching module,7,Creating Identity Cubes,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,8,Identity Attributes and Mappings,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,9,Authentication and Authorization,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,10,Organizing Identities,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,11,Onboarding Additional Applications,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,12,Account Correlation,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,13,IdentityIQ Connectors,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,14,Data Oversight,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,15,System Oversight,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,16,Logging,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,17,Troubleshooting,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,18,Introduction to Policies,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,19,Introduction to Certification,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,20,Introduction to Roles,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,21,Provisioning Overview,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,22,Monitoring Provisioning,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,23,Rapid Setup Lifecycle Events,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,24,Lifecycle Event Configuration,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,25,Lifecycle Manager Requests,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,26,Manage User Access,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,27,Additional Access Request Options,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,28,Other Lifecycle Manager Requests,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,29,Automated Provisioning,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,30,Other Provisioning Requests,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,31,System Architecture and Deployment,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,32,Deployment Process Management,Pending,Handouts saved; no lesson-level study processing yet
+IdentityIQ Essentials,numbered teaching module,33,Getting Help,Pending,Handouts saved; no lesson-level study processing yet

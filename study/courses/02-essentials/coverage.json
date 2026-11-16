@@ -1,0 +1,108 @@
+{
+  "course": "IdentityIQ Essentials",
+  "verified_date": "2026-11-16",
+  "numbered_teaching_modules": 33,
+  "modules_with_notes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "modules_pending": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "caption_search_reviewed_modules": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "caption_method": "Read accessible results from the Camtasia player chapter/caption search; no hidden application state or network interception",
+  "caption_limit": "Results can include duplicates and RTF markers; not certified as word-perfect transcripts; uncaptained visual events may be missing",
+  "source_urls": [
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251131/scorm/je4cdqpwnmv2",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/290869/scorm/1ada1jok6rnbp",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251133/scorm/3jifn8pmnj9p1",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251136/scorm/2jkfbl4hphivg",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251139/scorm/1jpi3clgbldow",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251140/scorm/2symz4mv8vgfw"
+  ],
+  "presentation_pdf_pages_in_batch": [
+    1,
+    45
+  ],
+  "nonblank_presentation_pages_illustrated": 40,
+  "exercise_guide_pages_in_batch": [
+    9,
+    17
+  ],
+  "saved_image_files": 49,
+  "images_kind": "Full original English PDF pages rendered to PNG; not video-frame captures",
+  "omitted_blank_slide_pages": [
+    9,
+    18,
+    26,
+    32,
+    45
+  ],
+  "official_downloads": [
+    {
+      "file": "handouts/presentations.pdf",
+      "pages": 461,
+      "bytes": 8786258,
+      "sha256": "afb07d6d9ba4cf0210a67499303bf31450dc2376f9635d68d9812fa2dca29d6e"
+    },
+    {
+      "file": "handouts/exercise-guide.pdf",
+      "pages": 257,
+      "bytes": 8216494,
+      "sha256": "1282cbb1d185968e2f2146b3b82e0942ded93000b24e2b93f870e4fac9b4cf43"
+    }
+  ],
+  "pending_material": [
+    "Module 7\u201333 explanations and media",
+    "Accessing the Virtual Machine PDF lesson",
+    "My lab interface and remaining practical exercises",
+    "Complete appendix procedures and linked external resources",
+    "Full video footage and changing frames",
+    "Interactive knowledge checks"
+  ],
+  "assessment_status": "No questions answered or attempts submitted; Answer Key handout not used",
+  "lab_actions": "None; instructions rewritten for study only",
+  "source_discrepancies": [
+    "Presentation slide says Accelerator Park; narration says Accelerator Pack",
+    "Module 6 embedded player heading says Product Architecture; captions and navigation describe Installation",
+    "Handout is 8.2b / 2021 while some slides use 8.1 examples and 2020 copyright notices"
+  ],
+  "automatic_progress_note": "Start Here became complete on viewing; this is LMS behavior, not a claim that exercises or video playback were completed"
+}
