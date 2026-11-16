@@ -403,5 +403,77 @@
     "notes_status": "English paraphrased notes available",
     "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
     "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 1,
+    "title": "Course Overview",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 2,
+    "title": "1 Rules, Scripts, and BeanShell",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 3,
+    "title": "2 API Introduction",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 4,
+    "title": "3 SailPointContext",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 5,
+    "title": "4 Object Model",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 6,
+    "title": "5 Common API Uses",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 7,
+    "title": "6 Best Practices",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Rules, Scripts, and API",
+    "level": "internal topic",
+    "number": 8,
+    "title": "7 Next Steps",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+    "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
   }
 ]

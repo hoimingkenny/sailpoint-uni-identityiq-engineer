@@ -1,6 +1,6 @@
 # Coverage and Missing Material
 
-**The Engineer learning path remains incomplete.** Introduction has twelve topic notes and Essentials has notes for all 33 numbered teaching modules. The remaining teaching courses are separate work. The path lists five teaching courses (60 hours 30 minutes displayed) plus two certification exam entries.
+**The Engineer learning path remains incomplete.** Introduction has twelve topic notes, Essentials has notes for all 33 numbered teaching modules, and Rules / Scripts / API has notes for all eight internal topics. The remaining teaching courses are separate work. The path lists five teaching courses (60 hours 30 minutes displayed) plus two certification exam entries.
 
 ## Course status
 
@@ -9,7 +9,7 @@
 | IdentityIQ Introduction | English notes compiled for all twelve topics; media gaps documented |
 | IdentityIQ Essentials | All 33 numbered modules have English notes; 429 slide illustrations and 257 exercise-guide page illustrations; audiovisual gaps documented |
 | SailPoint Certified IdentityIQ Associate | Exam content excluded |
-| IdentityIQ Rules, Scripts, and API | Module player accessible; eight internal topic titles verified; notes pending |
+| IdentityIQ Rules, Scripts, and API | English notes for all eight internal topics; 42 inline images, nine videos and 37 exercise-guide page illustrations saved; transcript gaps documented |
 | IdentityIQ Custom Reports | Outline verified; lesson notes pending |
 | IdentityIQ Implementation: Advanced Provisioning and Workflows | Restricted: prerequisite completion required |
 | SailPoint Certified IdentityIQ Engineer | Exam content excluded |
@@ -40,10 +40,20 @@ The exercise guide identifies IdentityIQ 8.2b / 2021; some slides use 8.1 and 20
 
 See [Essentials notes](courses/02-essentials/notes.md), [the full practice companion](courses/02-essentials/practice-companion.html), [detailed evidence record](courses/02-essentials/coverage.json), and [per-topic/module coverage CSV](lesson-coverage.csv).
 
+## Rules, Scripts, and API
+
+All eight written topic bodies were read. The four workflow carousel panels and all three performance tabs were expanded into the notes. Forty-two original inline images, nine original MP4 videos and all 37 exercise-guide pages are saved. The original exercise PDF and course artifact ZIP are retained unchanged.
+
+The nine demonstrations are available for offline playback, but their narration has not been fully transcribed or reviewed frame by frame. This is especially relevant to Object Model, whose four demonstrations carry much of its detailed teaching. The written notes are a companion to those saved videos.
+
+Code examples are explanatory and were not executed in an IdentityIQ instance. No rule import/execution, capability grant, access request, service change or review decision was performed. The VM-access lesson, My lab interface, linked external documentation and separate wrap-up page remain uncaptured. The separate Answer Key PDF and supplied solution files were not used to generate the notes.
+
+See [Rules / Scripts / API notes](courses/03-rules-scripts-api/notes.md), [its exercise companion](courses/03-rules-scripts-api/practice-companion.html), and [the exact coverage report](courses/03-rules-scripts-api/coverage.json).
+
 ## Other gaps and restrictions
 
-Rules / Scripts / API and Custom Reports remain outline-only. Advanced Provisioning and Workflows was gated on completion of an accepted Essentials course during the prior inspection. Preparing study notes does not satisfy the LMS prerequisite. Only its visible outline has been recorded and no restriction was bypassed.
+Custom Reports remains outline-only. Advanced Provisioning and Workflows was gated on completion of an accepted Essentials course during the prior inspection. Preparing study notes does not satisfy the LMS prerequisite. Only its visible outline has been recorded and no restriction was bypassed.
 
-Certification exam questions/answers are excluded; no attempt was submitted. The separate course Answer Key was not used. External linked references, current support matrices and software downloads have not been comprehensively archived.
+Certification exam questions/answers are excluded; no attempt was submitted. Separate course Answer Key PDFs were not used. External linked references, current support matrices and software downloads have not been comprehensively archived.
 
 The full internal lesson total across all five courses is unverified. Outer numbered modules and internal SCORM topics are different levels and must not be combined into a purported complete lesson count. The reader supplies a continuous offline reading layout rather than an exact LMS screen reproduction.

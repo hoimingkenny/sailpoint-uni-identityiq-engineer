@@ -1,0 +1,68 @@
+{
+  "course": "IdentityIQ Rules, Scripts, and API",
+  "verified_date": "2026-11-16",
+  "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q",
+  "number_of_internal_topics": 8,
+  "topic_bodies_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "topic_notes_available": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "original_inline_images_saved": 42,
+  "exercise_guide_pages_saved_and_rendered": 37,
+  "saved_image_files": 79,
+  "original_videos_saved": 9,
+  "videos_fully_transcribed": 0,
+  "videos_status": "Original MP4 bytes saved, duration and file hashes validated. Not a claim of complete viewing or narration review.",
+  "expanded_interactions": [
+    "All four workflow carousel panels in Common API Uses",
+    "All three performance tabs: Searching, Iterative Rules, Meter Object"
+  ],
+  "background_inventory": "All inspected topic states had no file-backed CSS background images; observed video-control backgrounds were CSS gradients. Original player icons and LMS layout are replaced by the offline reader.",
+  "knowledge_checks": "No answers submitted. Questions and feedback not reproduced in the rewritten notes. A preexisting/rendered feedback label is not an agent attempt.",
+  "artifact_bundle": "Original supplied ZIP retained unchanged; contains config starters and solutions. Its inventory was read; solution files and separate Answer Key PDF were not used to generate notes. No artifact executed.",
+  "missing_or_incomplete": [
+    "Full searchable narration transcripts for the nine saved demonstrations",
+    "Complete frame-by-frame explanation of video-only material, especially the four Object Model demos",
+    "Separate Acessing the Virtual Machine PDF lesson and My lab interface",
+    "External whitepapers, BeanShell website and installation JavaDoc contents",
+    "Separate wrap-up rating/Next Steps page outside the SCORM topic sequence"
+  ],
+  "source_errata": [
+    "Common API Uses preview says lookup Custom comes from Exercise 3; guide creates it in Exercise 4",
+    "Guide says the MoveAccountingDept solution omits qo.setCloneResults(true)",
+    "SailPointContext single-object prose says class string; its actual examples pass Identity.class / Application.class",
+    "Some displayed snippets contain typographic quotes, mismatched parentheses or malformed XML; rewritten examples are explanatory, corrected for readability and not runtime-tested",
+    "Guide Creation-rule filename spelling differs from the supplied ZIP starter naming; consult original artifact inventory rather than assuming identical paths"
+  ],
+  "live_actions": "None: no imports, requests, capability grants, service operations, reviews or rule executions",
+  "numbered_topic_notes_complete": true,
+  "full_audiovisual_documentation_complete": false,
+  "downloads": [
+    {
+      "file": "handouts/exercise-guide.pdf",
+      "bytes": 1177915,
+      "sha256": "15e16058520fd533dabe992e5e21dfd4890072abf10265c0cb2ff22c40d9a452"
+    },
+    {
+      "file": "handouts/course-artifacts.zip",
+      "bytes": 23748,
+      "sha256": "3ed7a72009512fe3e2866588c3d133e192afc8e3f88f63628fa56a935886671f"
+    }
+  ]
+}

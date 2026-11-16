@@ -452,48 +452,80 @@
       "type": "teaching",
       "duration_minutes": 360,
       "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api",
-      "capture_status": "Module player accessible; eight internal topic titles verified; notes pending",
+      "capture_status": "English notes for all eight internal topics; 42 inline images, nine videos and 37 exercise-guide page illustrations saved; transcript gaps documented",
       "outer_teaching_modules": 1,
       "internal_topics": [
         {
           "number": 1,
           "title": "Course Overview",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/37MkNcV2EbY08ztt8QFcWRTn0VJV35Db",
+          "inline_images_saved": 4,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 2,
           "title": "1 Rules, Scripts, and BeanShell",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/bXUd54PaCKJbg-iIQARZUy_Hs_vqwrLC",
+          "inline_images_saved": 7,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 3,
           "title": "2 API Introduction",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/m5UDqCf66kxAk9tI9yxNlhSJNDca2HDl",
+          "inline_images_saved": 7,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 4,
           "title": "3 SailPointContext",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/xPGRFCGD0VmQFIumuHzi2XVPXzu16C9q",
+          "inline_images_saved": 5,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 5,
           "title": "4 Object Model",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/i5feTe5rL2VV6Mzmh9DfVhh5xaddi9Ox",
+          "inline_images_saved": 5,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 6,
           "title": "5 Common API Uses",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/FB_OvaqGWYyPyc2__RLFVx4kMEDrCjOR",
+          "inline_images_saved": 7,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 7,
           "title": "6 Best Practices",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/7WyDP_U5UuLs1dg90q6EQZ8x8k_7Im69",
+          "inline_images_saved": 5,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         },
         {
           "number": 8,
           "title": "7 Next Steps",
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api/287881/scorm/2gdx2gnwaqq2q#/lessons/5D2pOXamuts5KTQWR5Bny7C5nxpmiQXT",
+          "inline_images_saved": 2,
+          "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
+          "video_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
         }
       ],
       "supporting_entries": [

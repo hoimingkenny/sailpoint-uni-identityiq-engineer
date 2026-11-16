@@ -1,0 +1,110 @@
+[
+  {
+    "number": 1,
+    "topic": 2,
+    "title": "Executing Rules in Debug Page or Console",
+    "file": "videos/01.mp4",
+    "poster": "images/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/ExecutinginDebugorConsole.mp4?v=1",
+    "bytes": 3877941,
+    "sha256": "4534fd1a64cca78c1e5aca07fe5c4a2447c8f1c42753911d0288048c00279b87",
+    "duration_seconds": 101.054,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 2,
+    "topic": 4,
+    "title": "getObjects",
+    "file": "videos/02.mp4",
+    "poster": "images/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/getObjects%28%29.mp4?v=1",
+    "bytes": 1285127,
+    "sha256": "7613ae339853166e27b352d32b5d5ccdc21728f5a9f7bb710f939f0f05dd12b7",
+    "duration_seconds": 33.437,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 3,
+    "topic": 4,
+    "title": "Search and projection queries",
+    "file": "videos/03.mp4",
+    "poster": "images/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/search%20and%20retrieve.mp4?v=1",
+    "bytes": 2625500,
+    "sha256": "9bd976af04a50050e5fabc7bba5ef10f3732c0f7bb3aa326350da21434f5df09",
+    "duration_seconds": 58.91,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 4,
+    "topic": 4,
+    "title": "Filtering",
+    "file": "videos/04.mp4",
+    "poster": "images/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Filtering.mp4?v=1",
+    "bytes": 1162361,
+    "sha256": "36da1a3c90f50f2e9e0ffeaf30f99a0177bbad25e84145cd0cc24f98d1b2c82d",
+    "duration_seconds": 25.241,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 5,
+    "topic": 5,
+    "title": "Object Model Demonstration 1",
+    "file": "videos/05.mp4",
+    "poster": "images/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%201_.mp4?v=1",
+    "bytes": 3138659,
+    "sha256": "726b9b3c88ec6cbb3bd939787d7962082b58c6c7f9aa700c080ce1e601723512",
+    "duration_seconds": 98.616,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 6,
+    "topic": 5,
+    "title": "Object Model Demonstration 2",
+    "file": "videos/06.mp4",
+    "poster": "images/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%202_.mp4?v=1",
+    "bytes": 2896337,
+    "sha256": "7683f0705ce2372a84d80a30d58c48355499dac7457aee87ccbdf9a94fa0816e",
+    "duration_seconds": 89.444,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 7,
+    "topic": 5,
+    "title": "Object Model Demonstration 3",
+    "file": "videos/07.mp4",
+    "poster": "images/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%203_.mp4?v=1",
+    "bytes": 4962373,
+    "sha256": "d0e8853e28bbd61476acc3fd712480f4d31a4ade402342a80644daa86beb4f94",
+    "duration_seconds": 144.104,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 8,
+    "topic": 5,
+    "title": "Object Model Demonstration 4",
+    "file": "videos/08.mp4",
+    "poster": "images/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%204_.mp4?v=1",
+    "bytes": 3631027,
+    "sha256": "e37251854a725ebbb8fb43f36d18af8cef2125837a4f67ce2ebebfb0623787ba",
+    "duration_seconds": 116.147,
+    "transcript_status": "Not transcribed; original video preserved"
+  },
+  {
+    "number": 9,
+    "topic": 6,
+    "title": "Aggregation Rules and Common API Uses",
+    "file": "videos/09.mp4",
+    "poster": "images/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Common%20API%20Uses_Rise.mp4?v=1",
+    "bytes": 9795189,
+    "sha256": "2725465c48608140dac37e5e2404dd227ab3775c4d653a6d0d0e026b3905140e",
+    "duration_seconds": 291.272,
+    "transcript_status": "Not transcribed; original video preserved"
+  }
+]

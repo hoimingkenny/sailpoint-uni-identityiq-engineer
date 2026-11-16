@@ -51,5 +51,26 @@ assert json.loads((ROOT/'capture-progress.json').read_text())['path_complete'] i
 assert len(list((ess/'modules').glob('*.html')))==33
 assert len(parsed[(ess/'index.html').resolve()].images)==429
 assert len(parsed[(ess/'practice-companion.html').resolve()].images)==257
-assert asset_count==748
-print(json.dumps({'html_pages_checked':len(parsed),'local_links_checked':link_count,'verified_image_files':asset_count,'essentials_modules_with_substantive_notes':len(chunks),'full_path_complete':False}))
+assert asset_count==827
+
+rules=ROOT/'study/courses/03-rules-scripts-api'
+rules_notes=(rules/'notes.md').read_text()
+assert list(map(int,re.findall(r'^## (\d+)\. ',rules_notes,re.M)))==list(range(1,9))
+assert len(list((rules/'topics').glob('*.html')))==8
+assert len(parsed[(rules/'index.html').resolve()].images)==42
+assert len(parsed[(rules/'practice-companion.html').resolve()].images)==37
+assert '<pre><code class="language-java">' in (rules/'index.html').read_text()
+assert '&lt;ReferencedRules&gt;' in (rules/'index.html').read_text()
+media=json.loads((rules/'saved-videos.json').read_text())
+assert len(media)==9
+for video in media:
+    file=rules/video['file'];assert file.exists() and hashlib.sha256(file.read_bytes()).hexdigest()==video['sha256']
+    assert video['duration_seconds']>0
+    assert video['file'] in rules_notes
+    assert file.stat().st_size<100_000_000
+import zipfile
+with zipfile.ZipFile(rules/'handouts/course-artifacts.zip') as archive:assert archive.testzip() is None
+for item in json.loads((rules/'coverage.json').read_text())['downloads']:
+    assert hashlib.sha256((rules/item['file']).read_bytes()).hexdigest()==item['sha256']
+
+print(json.dumps({'html_pages_checked':len(parsed),'local_links_checked':link_count,'verified_image_files':asset_count,'essentials_modules_with_substantive_notes':len(chunks),'rules_api_topics':8,'saved_videos_checked':len(media),'full_path_complete':False}))

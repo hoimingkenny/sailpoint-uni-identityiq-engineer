@@ -72,7 +72,7 @@ Status: Exam content excluded
 
 ### 4. IdentityIQ Rules, Scripts, and API
 
-Status: Module player accessible; eight internal topic titles verified; notes pending
+Status: English notes for all eight topics, with 42 original inline images, nine saved videos and all 37 exercise-guide pages. Four workflow panels and three performance tabs expanded; video transcripts incomplete. Updated 16 November 2026.
 
 [Open source](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-rules-scripts-and-api)
 

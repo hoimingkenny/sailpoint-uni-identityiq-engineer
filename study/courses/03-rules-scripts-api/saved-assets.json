@@ -1,0 +1,755 @@
+[
+  {
+    "number": 1,
+    "topic": 1,
+    "file": "images/01.png",
+    "caption": "IdentityIQ logo",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/IdentityIQ%20Logo.png",
+    "kind": "original inline course image",
+    "bytes": 7571,
+    "sha256": "6b6f6533f56e3b6d548b09ddd1bfabb0261d5fc59a59e2a72734202a1a6b2897"
+  },
+  {
+    "number": 2,
+    "topic": 1,
+    "file": "images/02.png",
+    "caption": "Course learning sequence",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Course%20Flow.png",
+    "kind": "original inline course image",
+    "bytes": 42747,
+    "sha256": "bbf0321d678d9a57fde7c0847b9cae5d333fd627824fa0fb225918237af2879b"
+  },
+  {
+    "number": 3,
+    "topic": 1,
+    "file": "images/03.jpg",
+    "caption": "Course navigation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Navigation.jpg",
+    "kind": "original inline course image",
+    "bytes": 12890,
+    "sha256": "f89963cd52a9c554d8610fbbd1ec763a59fa985b0956f8f74afebba912cd0077"
+  },
+  {
+    "number": 4,
+    "topic": 1,
+    "file": "images/04.jpg",
+    "caption": "Next-topic navigation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/next%20topic.jpg",
+    "kind": "original inline course image",
+    "bytes": 3623,
+    "sha256": "c598ca0735a1c52a1af3deed6d1fc726a3b50fd03b94e8d23c64b7993768475a"
+  },
+  {
+    "number": 5,
+    "topic": 2,
+    "file": "images/05.png",
+    "caption": "Rules and scripts: definitions",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Script%20and%20Rule%20Defi.png",
+    "kind": "original inline course image",
+    "bytes": 75560,
+    "sha256": "83fed9ef1f407fd514f046e7ce2f2f7f33ec46e624d6d6920771fc2b79d92f5f"
+  },
+  {
+    "number": 6,
+    "topic": 2,
+    "file": "images/06.png",
+    "caption": "Rule and script configuration screens",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Script%20and%20Rule%20Scre.png",
+    "kind": "original inline course image",
+    "bytes": 114392,
+    "sha256": "f10b68ab8f79fb5033d3c84f7a250bb94a054e4c09bcf1fb8196459998f6b1ed"
+  },
+  {
+    "number": 7,
+    "topic": 2,
+    "file": "images/07.png",
+    "caption": "Rule arguments",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Rule%20Arguments.png",
+    "kind": "original inline course image",
+    "bytes": 39113,
+    "sha256": "d2d83078a05395f0d24df9723993d0e6c571a4bec0fda03abc434bac82f030d1"
+  },
+  {
+    "number": 8,
+    "topic": 2,
+    "file": "images/08.png",
+    "caption": "Inline script editor",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Script%20Box.png",
+    "kind": "original inline course image",
+    "bytes": 2009,
+    "sha256": "8bcf010f261d882da0a9f30d140e1875277e38e6ac69bf8d7503f2dd0293ba90"
+  },
+  {
+    "number": 9,
+    "topic": 2,
+    "file": "images/09.png",
+    "caption": "Rule editor and signature documentation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Rule%20Editor.png",
+    "kind": "original inline course image",
+    "bytes": 109293,
+    "sha256": "86af7059ddbce503e237452ed30a9d99ecc0d864e90ec0f3f8defe6de67a2d79"
+  },
+  {
+    "number": 10,
+    "topic": 2,
+    "file": "images/10.png",
+    "caption": "Executing rules in Debug Pages or Console",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/ExecutinginDebugorConsole.png",
+    "kind": "original inline course image",
+    "bytes": 76607,
+    "sha256": "bcb2d0e37de281df5c07af9a8c5272c9c8c7a480f51adab90a4b4958e32f09e4"
+  },
+  {
+    "number": 11,
+    "topic": 2,
+    "file": "images/11.png",
+    "caption": "Run Rule task configuration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Execute%20rule%20through.png",
+    "kind": "original inline course image",
+    "bytes": 59924,
+    "sha256": "4a022dd2f43c5cbab349d3fc8df740223201026d1ed43a2e0bcae52b526ca16d"
+  },
+  {
+    "number": 12,
+    "topic": 3,
+    "file": "images/12.png",
+    "caption": "IdentityIQ architecture and objects",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/IIQ%20Architecture_1.png",
+    "kind": "original inline course image",
+    "bytes": 16120,
+    "sha256": "cfce62015d2c4b576e66c7db1cc251fc5d27937e562c5d109210d69e8e156607"
+  },
+  {
+    "number": 13,
+    "topic": 3,
+    "file": "images/13.png",
+    "caption": "Modifying IdentityIQ through objects",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Modifying%20IIQ%20Data.png",
+    "kind": "original inline course image",
+    "bytes": 10627,
+    "sha256": "33d7ee286ae2f47fe4329fb5642fda6fa1130e9384b8fb22e10d67dd38ec0d9a"
+  },
+  {
+    "number": 14,
+    "topic": 3,
+    "file": "images/14.png",
+    "caption": "Extended object attributes",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Extending%20Objects.png",
+    "kind": "original inline course image",
+    "bytes": 72146,
+    "sha256": "a8e8a778f78a72938b58b6bbcdf7807462e1c115f7ea6a34020ded7fcfc5d122"
+  },
+  {
+    "number": 15,
+    "topic": 3,
+    "file": "images/15.png",
+    "caption": "Standard and extended attribute access",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Attribute%20Acces.png",
+    "kind": "original inline course image",
+    "bytes": 47585,
+    "sha256": "d297cb7d29eda096e3cba238c750e416545bf31fc527fde02a39f453e14c96cd"
+  },
+  {
+    "number": 16,
+    "topic": 3,
+    "file": "images/16.png",
+    "caption": "JavaDoc navigation",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Javadoc.png",
+    "kind": "original inline course image",
+    "bytes": 95217,
+    "sha256": "7f5c50cd9642206e2af279ea4dfe2db51d1da26e9a953f202485ad56c171e9a7"
+  },
+  {
+    "number": 17,
+    "topic": 3,
+    "file": "images/17.png",
+    "caption": "API package highlights",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/JavaDoc%20Highlights.png",
+    "kind": "original inline course image",
+    "bytes": 174300,
+    "sha256": "4e744c1514b552739c17083c8e22d46dbee822f872d15300677c56bee3482f69"
+  },
+  {
+    "number": 18,
+    "topic": 3,
+    "file": "images/18.png",
+    "caption": "Object Model and Usage reference",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/object%20model.png",
+    "kind": "original inline course image",
+    "bytes": 35698,
+    "sha256": "2cab93886845e5bc2da99ae0c4e688c1ad1202f6650baa7fa1bb0621ba462bd7"
+  },
+  {
+    "number": 19,
+    "topic": 4,
+    "file": "images/19.png",
+    "caption": "SailPointContext responsibilities",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Context%20Uses.png",
+    "kind": "original inline course image",
+    "bytes": 107662,
+    "sha256": "8ad778026f7ce6b2036ad193f3714b53554b53ea1cb37330811781121b1613d9"
+  },
+  {
+    "number": 20,
+    "topic": 4,
+    "file": "images/20.png",
+    "caption": "getObjects demonstration poster",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/getObjects%28%29.png",
+    "kind": "original inline course image",
+    "bytes": 26164,
+    "sha256": "a4200fcbc78032e516663df51508c4b8d5383d30b32fcdc2015c8ef80bc5aed3"
+  },
+  {
+    "number": 21,
+    "topic": 4,
+    "file": "images/21.png",
+    "caption": "Search and projection demonstration poster",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/search%20and%20retrieve.png",
+    "kind": "original inline course image",
+    "bytes": 31695,
+    "sha256": "27fdbdf7aa77a8f323d8ee544b94d1bdedde7719861ddad58c5e73110d1eada9"
+  },
+  {
+    "number": 22,
+    "topic": 4,
+    "file": "images/22.png",
+    "caption": "QueryOptions and filters",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Filtering%20-%20Query%20Op.png",
+    "kind": "original inline course image",
+    "bytes": 8008,
+    "sha256": "2325bf0bb5fbf69a689a700bcd146f8a3445073a952add49690da992f4ae2c43"
+  },
+  {
+    "number": 23,
+    "topic": 4,
+    "file": "images/23.png",
+    "caption": "Filtering demonstration poster",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Filtering.png",
+    "kind": "original inline course image",
+    "bytes": 88435,
+    "sha256": "683a73a5746c51ab904d27065691e973c190058b0c826a06e57c6a63e0730aab"
+  },
+  {
+    "number": 24,
+    "topic": 5,
+    "file": "images/24.png",
+    "caption": "Object model demonstration 1",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%201_.png",
+    "kind": "original inline course image",
+    "bytes": 93299,
+    "sha256": "937b43b8344f3a73f36367a1008a72089c2f3a2ad91a220e589128970db18999"
+  },
+  {
+    "number": 25,
+    "topic": 5,
+    "file": "images/25.png",
+    "caption": "Object model demonstration 2",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%202_.png",
+    "kind": "original inline course image",
+    "bytes": 61429,
+    "sha256": "4ebe33afa3f182b39de8d4c0f3811f7712ad3db847fe2d8ca5329009b9d1d392"
+  },
+  {
+    "number": 26,
+    "topic": 5,
+    "file": "images/26.png",
+    "caption": "Object model demonstration 3",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%203_.png",
+    "kind": "original inline course image",
+    "bytes": 73672,
+    "sha256": "45ff8c3be68307e56a11502bf5d25a4e46997bfec2e0b10d0ae968c40ef85666"
+  },
+  {
+    "number": 27,
+    "topic": 5,
+    "file": "images/27.png",
+    "caption": "Object model demonstration 4",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Object%20Model%20Demo%204_.png",
+    "kind": "original inline course image",
+    "bytes": 80102,
+    "sha256": "ce34153c91e4ff33df25ba4c4766911a8c060338cbff19d7998135ec10395e34"
+  },
+  {
+    "number": 28,
+    "topic": 5,
+    "file": "images/28.png",
+    "caption": "Custom object attribute map",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Custom%20Object%20small.png",
+    "kind": "original inline course image",
+    "bytes": 3542,
+    "sha256": "46e34a4c966c335337a9e0e3d5cbee84b1f524c69da74b2994d508bf5c04bd6b"
+  },
+  {
+    "number": 29,
+    "topic": 6,
+    "file": "images/29.png",
+    "caption": "Aggregation rules demonstration poster",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Common%20API%20Uses_Rise.png",
+    "kind": "original inline course image",
+    "bytes": 87763,
+    "sha256": "2333f6ed672ecc527e9f8b49c6c5c8e433f369c70038f0c1028a5d9478fc77fc"
+  },
+  {
+    "number": 30,
+    "topic": 6,
+    "file": "images/30.png",
+    "caption": "Certification rule configuration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/certificaiton%20rules.png",
+    "kind": "original inline course image",
+    "bytes": 45757,
+    "sha256": "943ee7647f06c4a7e1c6681e36b6702fbf9ea9ab45fb7ed13f6ffd558e344157"
+  },
+  {
+    "number": 31,
+    "topic": 6,
+    "file": "images/31.png",
+    "caption": "Workflow process designer",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/process%20designer.png",
+    "kind": "original inline course image",
+    "bytes": 38688,
+    "sha256": "81f44310e4f695d2127b150a58cc9079fa40b92df9f1f1f0072de230af14f88e"
+  },
+  {
+    "number": 32,
+    "topic": 6,
+    "file": "images/32.png",
+    "caption": "Workflow variable logic",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/process%20variables.png",
+    "kind": "original inline course image",
+    "bytes": 30864,
+    "sha256": "96ce3a052f9d4f6cb3c29f016cbfaa9d0185cce2aa86798631b621f07c19f80c"
+  },
+  {
+    "number": 33,
+    "topic": 6,
+    "file": "images/33.png",
+    "caption": "Workflow step action logic",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/step%20details.png",
+    "kind": "original inline course image",
+    "bytes": 17584,
+    "sha256": "0545b4903cd4dbe8948047817d4659c48fc4c9e8f552e39a190943ea1bee9848"
+  },
+  {
+    "number": 34,
+    "topic": 6,
+    "file": "images/34.png",
+    "caption": "Workflow form and approval assignment",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/user%20form.png",
+    "kind": "original inline course image",
+    "bytes": 11299,
+    "sha256": "1b8a9fd18ef03058cb1a35d05bfd602ce135c730d26e493dd7f66be6e61a2f03"
+  },
+  {
+    "number": 35,
+    "topic": 6,
+    "file": "images/35.png",
+    "caption": "Provisioning policy field settings",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/provisioning%20policy%20se.png",
+    "kind": "original inline course image",
+    "bytes": 144291,
+    "sha256": "455c7434d6c309c398a85555ba2a0605eff3dd0067919ba4c3261a843a3c71fa"
+  },
+  {
+    "number": 36,
+    "topic": 7,
+    "file": "images/36.png",
+    "caption": "Application logging configuration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/log4j.png",
+    "kind": "original inline course image",
+    "bytes": 230830,
+    "sha256": "3326a35c158676ecf609efcd59b6c08958e528498e81d60662b970ce5627f0be"
+  },
+  {
+    "number": 37,
+    "topic": 7,
+    "file": "images/37.png",
+    "caption": "Create a custom logger",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/1%20-%20Create%20Logger%20.png",
+    "kind": "original inline course image",
+    "bytes": 56011,
+    "sha256": "58d41a6e24234cf255c054fc6b1c96c8269961f85043471d0ec882d51a42a211"
+  },
+  {
+    "number": 38,
+    "topic": 7,
+    "file": "images/38.png",
+    "caption": "Configure a named logger",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/2%20-%20Modify%20Config%20.png",
+    "kind": "original inline course image",
+    "bytes": 40202,
+    "sha256": "b9e6385b306a9e330079b5d4e6f00a9e1ab6434959f31452714805e5be270606"
+  },
+  {
+    "number": 39,
+    "topic": 7,
+    "file": "images/39.png",
+    "caption": "Include optional trace statements",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/3%20-%20Include%20Trace.png",
+    "kind": "original inline course image",
+    "bytes": 27347,
+    "sha256": "a18ff7f4d586f364ff04abca96a93f29dc1aff3f3604fd14b86017fa65e21672"
+  },
+  {
+    "number": 40,
+    "topic": 7,
+    "file": "images/40.png",
+    "caption": "Meter statistics in Call Timings",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Call%20Timings.png",
+    "kind": "original inline course image",
+    "bytes": 36297,
+    "sha256": "14614b35f9a2ae132914df7384989918559e0367d0284c1b9c5131e3805ec8dc"
+  },
+  {
+    "number": 41,
+    "topic": 8,
+    "file": "images/41.png",
+    "caption": "Further technical training",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Tech%20Classes.png",
+    "kind": "original inline course image",
+    "bytes": 26588,
+    "sha256": "f2891749775e4e7f1fc65c4eb455dcf46132b4b18840c07722c66f0ec6c32327"
+  },
+  {
+    "number": 42,
+    "topic": 8,
+    "file": "images/42.jpg",
+    "caption": "Closing course illustration",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/832o7fpdg39k/scormcontent/assets/Closing%20Image.jpg",
+    "kind": "original inline course image",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "images/exercise-001.png",
+    "caption": "Original exercise guide, PDF page 1",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 1,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 44105,
+    "sha256": "c9d893ae02b7be714c85ad28eeae59fd5ea2e8b8e83bd9961d8d4de6d098d3b4"
+  },
+  {
+    "file": "images/exercise-002.png",
+    "caption": "Original exercise guide, PDF page 2",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 2,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 339163,
+    "sha256": "3ffa1649f289ce93d79fc45f579ab0124ae8e9b680ac49f451a9bbb0b542264a"
+  },
+  {
+    "file": "images/exercise-003.png",
+    "caption": "Original exercise guide, PDF page 3",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 3,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 170040,
+    "sha256": "baba31b4053d2ff2e5afb8d0fd93915a9e14a22325118fa3a9420dc02be3d01b"
+  },
+  {
+    "file": "images/exercise-004.png",
+    "caption": "Original exercise guide, PDF page 4",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 4,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 280065,
+    "sha256": "91f87e607125a23cb234a7bcf52b26d415ec41259ab24d872c08925ef70c67f3"
+  },
+  {
+    "file": "images/exercise-005.png",
+    "caption": "Original exercise guide, PDF page 5",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 5,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 144689,
+    "sha256": "84d3c2946f15c2d75df70f54894cb0358b2804867cc175a5d923f00432acbd3e"
+  },
+  {
+    "file": "images/exercise-006.png",
+    "caption": "Original exercise guide, PDF page 6",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 6,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 173248,
+    "sha256": "9584a1dc8a697cbf2f1aa13bc1efcfd29f48d8bf69ad9bae8ba4452cc3085686"
+  },
+  {
+    "file": "images/exercise-007.png",
+    "caption": "Original exercise guide, PDF page 7",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 7,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 194342,
+    "sha256": "853aa95bc7373f204822e4f4d92e20b419a23292940ab6ab142b7651245ef099"
+  },
+  {
+    "file": "images/exercise-008.png",
+    "caption": "Original exercise guide, PDF page 8",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 8,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 199593,
+    "sha256": "908ec8ee56dc00842972e1fadc7b15cdfbd3e4de3fc8ee01f2d6b4380690e4a3"
+  },
+  {
+    "file": "images/exercise-009.png",
+    "caption": "Original exercise guide, PDF page 9",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 9,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 193620,
+    "sha256": "883cc46b941109094a7b6dc21435be81122209981163489e18d86dccba55ef31"
+  },
+  {
+    "file": "images/exercise-010.png",
+    "caption": "Original exercise guide, PDF page 10",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 10,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 211873,
+    "sha256": "32ccb0277fea8bd16783000bd083c498412bcb037ea815a625b6f60ab500fa54"
+  },
+  {
+    "file": "images/exercise-011.png",
+    "caption": "Original exercise guide, PDF page 11",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 11,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 220644,
+    "sha256": "056bdc852d9724a5b9aaec494eb49ebec9a1412df42cffafee3786d878ecd5a9"
+  },
+  {
+    "file": "images/exercise-012.png",
+    "caption": "Original exercise guide, PDF page 12",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 12,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 171004,
+    "sha256": "3b1687014a168d68ac94e5aec0c86af3448519c4740238d04ce91589bdb52c9e"
+  },
+  {
+    "file": "images/exercise-013.png",
+    "caption": "Original exercise guide, PDF page 13",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 13,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 142975,
+    "sha256": "46c56a5e340b7e55c58931b363476f36b0a2d53b7ce48707daa1bcba30f6f6b8"
+  },
+  {
+    "file": "images/exercise-014.png",
+    "caption": "Original exercise guide, PDF page 14",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 14,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 272323,
+    "sha256": "ff3a3f65cc1b52652486a62f6265a28b7fb172df228f0634b63cf599e9c34f43"
+  },
+  {
+    "file": "images/exercise-015.png",
+    "caption": "Original exercise guide, PDF page 15",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 15,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 203392,
+    "sha256": "b812b9f11d42e09807577227e52eafb2dace630f89766bc25758bb8c0739f45d"
+  },
+  {
+    "file": "images/exercise-016.png",
+    "caption": "Original exercise guide, PDF page 16",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 16,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 226104,
+    "sha256": "0e6bc6cd4cb7093d63b8455695bed0ae3af572c4253a25dcfbe951f3aede90aa"
+  },
+  {
+    "file": "images/exercise-017.png",
+    "caption": "Original exercise guide, PDF page 17",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 17,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 214166,
+    "sha256": "a747f6041ba230e7c116c407bfd632317d44e6957b9ba7c69de75d3ba9e82054"
+  },
+  {
+    "file": "images/exercise-018.png",
+    "caption": "Original exercise guide, PDF page 18",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 18,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 215945,
+    "sha256": "3d9bd9541269330074876b63376c1f2cbcee523e1b7308fed1a3d123c2090dfe"
+  },
+  {
+    "file": "images/exercise-019.png",
+    "caption": "Original exercise guide, PDF page 19",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 19,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 230674,
+    "sha256": "225e2a92a275c998d9351bdbf22111a20279fdcd594af47270a27420e6c4b4f7"
+  },
+  {
+    "file": "images/exercise-020.png",
+    "caption": "Original exercise guide, PDF page 20",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 20,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 214414,
+    "sha256": "150d4498a4c120bcf1d198cf861fb41a9ab712a1d36d7f3708132aa63e9bf31a"
+  },
+  {
+    "file": "images/exercise-021.png",
+    "caption": "Original exercise guide, PDF page 21",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 21,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 191224,
+    "sha256": "eb4af133037dc50cd0516169636d376599f3989b9cc98675ff88227f3b1f1486"
+  },
+  {
+    "file": "images/exercise-022.png",
+    "caption": "Original exercise guide, PDF page 22",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 22,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 339631,
+    "sha256": "543a3a33cee410dd6112026556d2f76f84878774e97a01d814f32e939cd127dd"
+  },
+  {
+    "file": "images/exercise-023.png",
+    "caption": "Original exercise guide, PDF page 23",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 23,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 219428,
+    "sha256": "4bd87c4f301cf3723666a8ee1c3034fdee2b5a34406a74f8cb22b16e0e41f580"
+  },
+  {
+    "file": "images/exercise-024.png",
+    "caption": "Original exercise guide, PDF page 24",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 24,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 165031,
+    "sha256": "e70f29a6984d5e8bed7dfe3ae72ffec78dc4f55fb6d413936addc1b1a8c74bba"
+  },
+  {
+    "file": "images/exercise-025.png",
+    "caption": "Original exercise guide, PDF page 25",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 25,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 224089,
+    "sha256": "35ba4a840b5b8144589b2c786c71f62493b010924eea0cbe8c4707e4ee06d879"
+  },
+  {
+    "file": "images/exercise-026.png",
+    "caption": "Original exercise guide, PDF page 26",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 26,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 279705,
+    "sha256": "509d0e0f63b4fa7b083d60bfd00ed645cd6135201f164912f47a747747ff8692"
+  },
+  {
+    "file": "images/exercise-027.png",
+    "caption": "Original exercise guide, PDF page 27",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 27,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 204853,
+    "sha256": "1d2dc81df6df10318454facf0492e2f4665a7e4b1180cc5353fc142d9e287172"
+  },
+  {
+    "file": "images/exercise-028.png",
+    "caption": "Original exercise guide, PDF page 28",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 28,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 225601,
+    "sha256": "c1072a8ed322521e11cfead27cfedf7276f06166b9432a5d1cd967215842b914"
+  },
+  {
+    "file": "images/exercise-029.png",
+    "caption": "Original exercise guide, PDF page 29",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 29,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 210425,
+    "sha256": "ddcf16a1edbe7f1b1117e14915397eb614ddeaf96c72c61cd6ed96c3abd14dfe"
+  },
+  {
+    "file": "images/exercise-030.png",
+    "caption": "Original exercise guide, PDF page 30",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 30,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 216074,
+    "sha256": "94bd4e5a4ad33760f12b0b97d50f6f4650f239464d7218b760e5a9d88268b69e"
+  },
+  {
+    "file": "images/exercise-031.png",
+    "caption": "Original exercise guide, PDF page 31",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 31,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 270214,
+    "sha256": "b647313445e48b301d9c93f3627806c6be007d351b903ce53e66fb24003fc6e1"
+  },
+  {
+    "file": "images/exercise-032.png",
+    "caption": "Original exercise guide, PDF page 32",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 32,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 220705,
+    "sha256": "4c13b2f0a1925ab92e8dc7af12a77fcac0c2567f9f8c85d1293d395f62b648dd"
+  },
+  {
+    "file": "images/exercise-033.png",
+    "caption": "Original exercise guide, PDF page 33",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 33,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 232178,
+    "sha256": "868473688097f25161ac4c46b14303d0a866e73588e33b50a3d2d7ae05e03d8d"
+  },
+  {
+    "file": "images/exercise-034.png",
+    "caption": "Original exercise guide, PDF page 34",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 34,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 185329,
+    "sha256": "e197a8af53f3c2e7835fd02037e8fb92ba194085f1493d86278ef2c3c544226f"
+  },
+  {
+    "file": "images/exercise-035.png",
+    "caption": "Original exercise guide, PDF page 35",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 35,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 265105,
+    "sha256": "2989f77d2eb6bcc8f67af5d71b3d8f45a7dd22a08993092b483f0586c4d70ade"
+  },
+  {
+    "file": "images/exercise-036.png",
+    "caption": "Original exercise guide, PDF page 36",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 36,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 160804,
+    "sha256": "d99baa24474cf7ea6a8d6c4778868142840a072dbd741b6fc80bc90d8b987882"
+  },
+  {
+    "file": "images/exercise-037.png",
+    "caption": "Original exercise guide, PDF page 37",
+    "source_file": "handouts/exercise-guide.pdf",
+    "pdf_page": 37,
+    "kind": "original PDF page rendered to PNG",
+    "bytes": 257705,
+    "sha256": "552b433edd55b1655fa7f4f3d9d244bf5afe76b70d46f0c5a1490d4190647f59"
+  }
+]

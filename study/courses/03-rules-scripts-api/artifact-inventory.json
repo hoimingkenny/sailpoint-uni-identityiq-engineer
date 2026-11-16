@@ -1,0 +1,102 @@
+[
+  {
+    "file": "config/",
+    "bytes": 0
+  },
+  {
+    "file": "config/.DS_Store",
+    "bytes": 8196
+  },
+  {
+    "file": "config/EmailTemplate-TRNG-ProvisioningResultNotification.xml",
+    "bytes": 598
+  },
+  {
+    "file": "config/LookupRuleArgs.xml",
+    "bytes": 252
+  },
+  {
+    "file": "config/Rule-TRNG-CreateCustomObject.xml",
+    "bytes": 2640
+  },
+  {
+    "file": "config/Rule-TRNG-CreationSetPassword.xml",
+    "bytes": 2379
+  },
+  {
+    "file": "config/Rule-TRNG-ExcludeContractorsAndPRISM.xml",
+    "bytes": 4627
+  },
+  {
+    "file": "config/Rule-TRNG-IdentityLookup.xml",
+    "bytes": 1749
+  },
+  {
+    "file": "config/Rule-TRNG-MeterPerformance.xml",
+    "bytes": 2554
+  },
+  {
+    "file": "config/Rule-TRNG-MoveAccountingDept.xml",
+    "bytes": 1871
+  },
+  {
+    "file": "config/Rule-TRNG-PopulateRegionCode.xml",
+    "bytes": 2666
+  },
+  {
+    "file": "config/Rule-TRNG-ProvisioningResultNotification.xml",
+    "bytes": 3753
+  },
+  {
+    "file": "config/Rule-TRNG-SetOwnerContact.xml",
+    "bytes": 1567
+  },
+  {
+    "file": "config/Rule-TRNG-UtilRuleLibrary.xml",
+    "bytes": 5005
+  },
+  {
+    "file": "solutions/",
+    "bytes": 0
+  },
+  {
+    "file": "solutions/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "file": "solutions/Rule-TRNG-CreateCustomObject.xml",
+    "bytes": 2850
+  },
+  {
+    "file": "solutions/Rule-TRNG-CreationSetPassword.xml",
+    "bytes": 2379
+  },
+  {
+    "file": "solutions/Rule-TRNG-ExcludeContractorsAndPRISM.xml",
+    "bytes": 4620
+  },
+  {
+    "file": "solutions/Rule-TRNG-IdentityLookup.xml",
+    "bytes": 1761
+  },
+  {
+    "file": "solutions/Rule-TRNG-MeterPerformance.xml",
+    "bytes": 2791
+  },
+  {
+    "file": "solutions/Rule-TRNG-MoveAccountingDept.xml",
+    "bytes": 1895
+  },
+  {
+    "file": "solutions/Rule-TRNG-PopulateRegionCode.xml",
+    "bytes": 2687
+  },
+  {
+    "file": "solutions/Rule-TRNG-ProvisioningResultNotification.xml",
+    "bytes": 3766
+  },
+  {
+    "file": "solutions/Rule-TRNG-SetOwnerContact.xml",
+    "bytes": 1567
+  }
+]

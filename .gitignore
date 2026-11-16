@@ -4,3 +4,4 @@ __pycache__/
 .env
 .env.*
 *.zip
+!study/courses/03-rules-scripts-api/handouts/course-artifacts.zip
