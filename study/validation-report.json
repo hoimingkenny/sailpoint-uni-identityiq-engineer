@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-16",
+  "numbered_essentials_modules_checked": 33,
+  "html_pages_checked": 38,
+  "local_links_checked": 3816,
+  "verified_image_hashes": 748,
+  "original_pdf_hashes_verified": 2,
+  "essentials_slide_illustrations": 429,
+  "essentials_practice_pages": 257,
+  "browser_checks": {
+    "search_native_change": "1 of 33 sections: 29. Automated Provisioning",
+    "chapter_navigation": "Module 7 opens and clears the search filter",
+    "practice_link": "Exercise 1.2 opens its matching section with 16 original guide pages",
+    "visual_review": "Wide-slide layout and full-width portrait exercise pages inspected"
+  },
+  "limitations": "Verification covers the saved study artifacts; it does not establish audiovisual or LMS completion."
+}

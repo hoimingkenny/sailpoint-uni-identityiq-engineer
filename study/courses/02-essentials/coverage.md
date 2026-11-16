@@ -1,13 +1,12 @@
 # IdentityIQ Essentials — Coverage
 
-Modules 1–6: English notes, caption-search explanations and 49 handout page illustrations; Modules 7–33 pending.
+All 33 numbered modules have English notes. This does not mean the LMS or practical exercises have been completed.
 
-Only Modules 1–6 have been rewritten. The full downloaded handouts contain later material, which remains pending in this study edition.
+- Original illustrations: 429 nonblank slide pages within the module notes; all 257 exercise-guide pages in the related practice companion.
+- Modules 1–7: accessible caption-search explanations reviewed.
+- Modules 8–33: official slides and exercise material support the notes; full video narration remains unreviewed.
+- Original PDFs: 461 presentation pages and 257 guide pages retained unchanged.
+- Missing: complete video/animation archive, interactive checks, separate VM-access lesson, lab interface and external linked resources.
+- No assessment answers or live configuration actions submitted.
 
-- Captions: accessible player search results read for Modules 1–6; not guaranteed complete transcripts.
-- Illustrations: 40 nonblank slide pages plus nine Exercise 1 guide pages, rendered with original English.
-- Original handouts: 461-page presentation PDF and 257-page exercise guide.
-- Not archived: original videos, all changing video frames, embedded checks and remaining external material.
-- Exercises: instructions only; no VM or live IdentityIQ changes performed.
-
-[Detailed source, version and gap record](coverage.json).
+[Detailed source and gap record](coverage.json) · [Module notes](notes.md) · [Practice companion](practice-companion.md).

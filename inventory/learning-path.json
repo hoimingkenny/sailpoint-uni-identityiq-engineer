@@ -22,238 +22,407 @@
       "type": "teaching",
       "duration_minutes": 1050,
       "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1",
-      "capture_status": "Modules 1–6: English notes, caption-search explanations and 49 handout page illustrations; Modules 7–33 pending",
+      "capture_status": "All 33 numbered modules have English notes; 429 slide illustrations and 257 exercise-guide page illustrations; audiovisual gaps documented",
       "modules": [
         {
           "number": 1,
           "title": "Course Overview",
           "duration_minutes": 10,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251131/scorm/je4cdqpwnmv2",
-          "presentation_pdf_pages": null
+          "presentation_pdf_pages": null,
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 2,
           "title": "IdentityIQ Technical Overview",
           "duration_minutes": 15,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/290869/scorm/1ada1jok6rnbp",
           "presentation_pdf_pages": [
             1,
             9
-          ]
+          ],
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 3,
           "title": "IdentityIQ Functional Elements",
           "duration_minutes": 10,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251133/scorm/3jifn8pmnj9p1",
           "presentation_pdf_pages": [
             10,
             18
-          ]
+          ],
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 4,
           "title": "IdentityIQ Implementation Overview",
           "duration_minutes": 10,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251136/scorm/2jkfbl4hphivg",
           "presentation_pdf_pages": [
             19,
             26
-          ]
+          ],
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 5,
           "title": "Product Architecture",
           "duration_minutes": 10,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251139/scorm/1jpi3clgbldow",
           "presentation_pdf_pages": [
             27,
             32
-          ]
+          ],
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 6,
           "title": "IdentityIQ Installation",
           "duration_minutes": 50,
-          "notes_status": "English paraphrased notes available; original video and complete audiovisual coverage not archived",
+          "notes_status": "English paraphrased notes available",
           "caption_search_reviewed": true,
           "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251140/scorm/2symz4mv8vgfw",
           "presentation_pdf_pages": [
             33,
             45
-          ]
+          ],
+          "source_basis": "Caption-search explanation and handouts"
         },
         {
           "number": 7,
           "title": "Creating Identity Cubes",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": true,
+          "source_basis": "Caption-search explanation and handouts",
+          "presentation_pdf_pages": [
+            46,
+            66
+          ],
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251141/scorm/2mfk7hbv5nxla"
         },
         {
           "number": 8,
           "title": "Identity Attributes and Mappings",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            67,
+            85
+          ]
         },
         {
           "number": 9,
           "title": "Authentication and Authorization",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            86,
+            98
+          ]
         },
         {
           "number": 10,
           "title": "Organizing Identities",
           "duration_minutes": 75,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            99,
+            115
+          ]
         },
         {
           "number": 11,
           "title": "Onboarding Additional Applications",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            116,
+            132
+          ]
         },
         {
           "number": 12,
           "title": "Account Correlation",
           "duration_minutes": 55,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            133,
+            146
+          ]
         },
         {
           "number": 13,
           "title": "IdentityIQ Connectors",
           "duration_minutes": 65,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            147,
+            163
+          ]
         },
         {
           "number": 14,
           "title": "Data Oversight",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            164,
+            175
+          ]
         },
         {
           "number": 15,
           "title": "System Oversight",
           "duration_minutes": 70,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            176,
+            193
+          ]
         },
         {
           "number": 16,
           "title": "Logging",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            194,
+            210
+          ]
         },
         {
           "number": 17,
           "title": "Troubleshooting",
           "duration_minutes": 70,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            211,
+            227
+          ]
         },
         {
           "number": 18,
           "title": "Introduction to Policies",
           "duration_minutes": 20,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            228,
+            237
+          ]
         },
         {
           "number": 19,
           "title": "Introduction to Certification",
           "duration_minutes": 55,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            238,
+            250
+          ]
         },
         {
           "number": 20,
           "title": "Introduction to Roles",
           "duration_minutes": 55,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            251,
+            265
+          ]
         },
         {
           "number": 21,
           "title": "Provisioning Overview",
           "duration_minutes": 30,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            266,
+            283
+          ]
         },
         {
           "number": 22,
           "title": "Monitoring Provisioning",
           "duration_minutes": 55,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            284,
+            294
+          ]
         },
         {
           "number": 23,
           "title": "Rapid Setup Lifecycle Events",
           "duration_minutes": 20,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            295,
+            318
+          ]
         },
         {
           "number": 24,
           "title": "Lifecycle Event Configuration",
           "duration_minutes": 15,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            319,
+            330
+          ]
         },
         {
           "number": 25,
           "title": "Lifecycle Manager Requests",
           "duration_minutes": 20,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            331,
+            346
+          ]
         },
         {
           "number": 26,
           "title": "Manage User Access",
           "duration_minutes": 70,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            347,
+            363
+          ]
         },
         {
           "number": 27,
           "title": "Additional Access Request Options",
           "duration_minutes": 65,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            364,
+            379
+          ]
         },
         {
           "number": 28,
           "title": "Other Lifecycle Manager Requests",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            380,
+            399
+          ]
         },
         {
           "number": 29,
           "title": "Automated Provisioning",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            400,
+            418
+          ]
         },
         {
           "number": 30,
           "title": "Other Provisioning Requests",
           "duration_minutes": 55,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            419,
+            436
+          ]
         },
         {
           "number": 31,
           "title": "System Architecture and Deployment",
           "duration_minutes": 5,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            437,
+            449
+          ]
         },
         {
           "number": 32,
           "title": "Deployment Process Management",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            450,
+            455
+          ]
         },
         {
           "number": 33,
           "title": "Getting Help",
           "duration_minutes": 5,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "caption_search_reviewed": false,
+          "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+          "presentation_pdf_pages": [
+            456,
+            461
+          ]
         }
       ],
       "internal_topic_inventory": "Not yet inspected",

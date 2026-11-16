@@ -1,5 +1,5 @@
 {
-  "edition": "Essentials first batch",
+  "edition": "Essentials all numbered modules",
   "verified_date": "2026-11-16",
   "path_complete": false,
   "teaching_courses": 5,
@@ -11,9 +11,7 @@
     3,
     4,
     5,
-    6
-  ],
-  "essentials_pending_modules": [
+    6,
     7,
     8,
     9,
@@ -42,13 +40,53 @@
     32,
     33
   ],
-  "saved_image_files": 111,
+  "essentials_pending_numbered_modules": [],
+  "essentials_full_audiovisual_capture_complete": false,
+  "essentials_caption_search_reviewed_modules": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "essentials_full_narration_review_pending_modules": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "saved_image_files": 748,
   "image_breakdown": {
     "introduction_inline_originals": 62,
-    "essentials_rendered_handout_pages": 49
+    "essentials_slide_page_renders": 429,
+    "essentials_guide_page_renders": 257
   },
   "official_essentials_handouts_saved": 2,
-  "next_module": "Essentials 7 \u2014 Creating Identity Cubes",
+  "next_course": "IdentityIQ Rules, Scripts, and API",
   "restricted_course": "Advanced Provisioning and Workflows",
-  "restriction": "Accepted IdentityIQ Essentials completion required before registration"
+  "restriction": "Accepted Essentials completion is an LMS prerequisite, not satisfied by compiling study notes"
 }

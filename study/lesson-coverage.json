@@ -5,6 +5,7 @@
     "number": 1,
     "title": "Course Overview",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "2 inline images; see coverage record"
   },
   {
@@ -13,6 +14,7 @@
     "number": 2,
     "title": "Interacting with Course Content",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "3 inline images; see coverage record"
   },
   {
@@ -21,6 +23,7 @@
     "number": 3,
     "title": "Introducing IdentityIQ",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "10 inline images; see coverage record"
   },
   {
@@ -29,6 +32,7 @@
     "number": 4,
     "title": "Identities: Core of Security",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "7 inline images; see coverage record"
   },
   {
@@ -37,6 +41,7 @@
     "number": 5,
     "title": "Access Requests",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "2 inline images; video gap"
   },
   {
@@ -45,6 +50,7 @@
     "number": 6,
     "title": "Event-Driven Provisioning",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "4 inline images; see coverage record"
   },
   {
@@ -53,6 +59,7 @@
     "number": 7,
     "title": "Certification and Access Reviews",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "4 inline images; see coverage record"
   },
   {
@@ -61,6 +68,7 @@
     "number": 8,
     "title": "Policies",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "5 inline images; video gap"
   },
   {
@@ -69,6 +77,7 @@
     "number": 9,
     "title": "Analytics and Reports",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "2 inline images; video gap"
   },
   {
@@ -77,6 +86,7 @@
     "number": 10,
     "title": "Roles",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "8 inline images; see coverage record"
   },
   {
@@ -85,6 +95,7 @@
     "number": 11,
     "title": "Extending IdentityIQ",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "10 inline images; see coverage record"
   },
   {
@@ -93,6 +104,7 @@
     "number": 12,
     "title": "Next Steps",
     "notes_status": "English paraphrased notes available",
+    "source_basis": "Original topic body and listed interactions",
     "media_status": "5 inline images; see coverage record"
   },
   {
@@ -101,7 +113,8 @@
     "number": 1,
     "title": "Course Overview",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
@@ -109,7 +122,8 @@
     "number": 2,
     "title": "IdentityIQ Technical Overview",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
@@ -117,7 +131,8 @@
     "number": 3,
     "title": "IdentityIQ Functional Elements",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
@@ -125,7 +140,8 @@
     "number": 4,
     "title": "IdentityIQ Implementation Overview",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
@@ -133,7 +149,8 @@
     "number": 5,
     "title": "Product Architecture",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
@@ -141,222 +158,250 @@
     "number": 6,
     "title": "IdentityIQ Installation",
     "notes_status": "English paraphrased notes available",
-    "media_status": "Caption-search text reviewed; handout illustrations included where available; audiovisual gaps"
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 7,
     "title": "Creating Identity Cubes",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Caption-search explanation and handouts",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 8,
     "title": "Identity Attributes and Mappings",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 9,
     "title": "Authentication and Authorization",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 10,
     "title": "Organizing Identities",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 11,
     "title": "Onboarding Additional Applications",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 12,
     "title": "Account Correlation",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 13,
     "title": "IdentityIQ Connectors",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 14,
     "title": "Data Oversight",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 15,
     "title": "System Oversight",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 16,
     "title": "Logging",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 17,
     "title": "Troubleshooting",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 18,
     "title": "Introduction to Policies",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 19,
     "title": "Introduction to Certification",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 20,
     "title": "Introduction to Roles",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 21,
     "title": "Provisioning Overview",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 22,
     "title": "Monitoring Provisioning",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 23,
     "title": "Rapid Setup Lifecycle Events",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 24,
     "title": "Lifecycle Event Configuration",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 25,
     "title": "Lifecycle Manager Requests",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 26,
     "title": "Manage User Access",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 27,
     "title": "Additional Access Request Options",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 28,
     "title": "Other Lifecycle Manager Requests",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 29,
     "title": "Automated Provisioning",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 30,
     "title": "Other Provisioning Requests",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 31,
     "title": "System Architecture and Deployment",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 32,
     "title": "Deployment Process Management",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   },
   {
     "course": "IdentityIQ Essentials",
     "level": "numbered teaching module",
     "number": 33,
     "title": "Getting Help",
-    "notes_status": "Pending",
-    "media_status": "Handouts saved; no lesson-level study processing yet"
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation slides and related exercise-guide material; full video narration not reviewed",
+    "media_status": "Original slide illustrations and related practice pages; full audiovisual archive not saved"
   }
 ]

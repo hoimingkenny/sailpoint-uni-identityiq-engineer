@@ -8,9 +8,7 @@
     3,
     4,
     5,
-    6
-  ],
-  "modules_pending": [
+    6,
     7,
     8,
     9,
@@ -39,13 +37,15 @@
     32,
     33
   ],
+  "modules_pending": [],
   "caption_search_reviewed_modules": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "caption_method": "Read accessible results from the Camtasia player chapter/caption search; no hidden application state or network interception",
   "caption_limit": "Results can include duplicates and RTF markers; not certified as word-perfect transcripts; uncaptained visual events may be missing",
@@ -55,25 +55,53 @@
     "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251133/scorm/3jifn8pmnj9p1",
     "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251136/scorm/2jkfbl4hphivg",
     "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251139/scorm/1jpi3clgbldow",
-    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251140/scorm/2symz4mv8vgfw"
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251140/scorm/2symz4mv8vgfw",
+    "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-essentials-1/251141/scorm/2mfk7hbv5nxla"
   ],
   "presentation_pdf_pages_in_batch": [
     1,
-    45
+    461
   ],
-  "nonblank_presentation_pages_illustrated": 40,
+  "nonblank_presentation_pages_illustrated": 429,
   "exercise_guide_pages_in_batch": [
-    9,
-    17
+    1,
+    257
   ],
-  "saved_image_files": 49,
+  "saved_image_files": 686,
   "images_kind": "Full original English PDF pages rendered to PNG; not video-frame captures",
   "omitted_blank_slide_pages": [
     9,
     18,
     26,
     32,
-    45
+    45,
+    66,
+    85,
+    98,
+    115,
+    132,
+    146,
+    163,
+    175,
+    193,
+    210,
+    227,
+    237,
+    250,
+    265,
+    283,
+    294,
+    318,
+    330,
+    346,
+    363,
+    379,
+    399,
+    418,
+    436,
+    449,
+    455,
+    461
   ],
   "official_downloads": [
     {
@@ -90,19 +118,52 @@
     }
   ],
   "pending_material": [
-    "Module 7\u201333 explanations and media",
-    "Accessing the Virtual Machine PDF lesson",
-    "My lab interface and remaining practical exercises",
-    "Complete appendix procedures and linked external resources",
-    "Full video footage and changing frames",
-    "Interactive knowledge checks"
+    "Full video narration review for Modules 8\u201333",
+    "Original videos, animations and changing frames for the course",
+    "Embedded interactive knowledge-check execution",
+    "Separate Accessing the Virtual Machine PDF lesson",
+    "My lab web interface",
+    "External linked documents, current support matrices and downloadable software"
   ],
   "assessment_status": "No questions answered or attempts submitted; Answer Key handout not used",
   "lab_actions": "None; instructions rewritten for study only",
   "source_discrepancies": [
-    "Presentation slide says Accelerator Park; narration says Accelerator Pack",
-    "Module 6 embedded player heading says Product Architecture; captions and navigation describe Installation",
-    "Handout is 8.2b / 2021 while some slides use 8.1 examples and 2020 copyright notices"
+    "Presentation says Accelerator Park; narration says Accelerator Pack",
+    "Module 6 player heading says Product Architecture; narration and navigation say Installation",
+    "Presentation calls Create Identity practice Exercise 6; the 8.2b guide labels it Exercise 4.7",
+    "PDF guide is 8.2b / 2021 while some slides use 8.1 and 2020 examples"
   ],
-  "automatic_progress_note": "Start Here became complete on viewing; this is LMS behavior, not a claim that exercises or video playback were completed"
+  "automatic_progress_note": "Start Here became complete on viewing; this is LMS behavior, not a claim that exercises or video playback were completed",
+  "numbered_module_notes_complete": true,
+  "full_audiovisual_capture_complete": false,
+  "handout_based_modules_without_full_narration_review": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "practice_companion": "practice-companion.html",
+  "appendix_status": "All original appendix pages retained in practice companion; not independently executed or validated for other environments"
 }
