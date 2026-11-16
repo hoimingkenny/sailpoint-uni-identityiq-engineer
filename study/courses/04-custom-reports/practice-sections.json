@@ -1,0 +1,112 @@
+[
+  {
+    "id": "practice-reference",
+    "title": "Course environment and reference",
+    "pdf_pages": [
+      1,
+      6
+    ],
+    "related_modules": [
+      1
+    ],
+    "markdown": "## Course environment and reference\n\nOriginal cover, notices, contents and VM instructions. The guide identifies IdentityIQ 8.1p1 and a preconfigured training system. These are historical training values, not a current support matrix. No VM was launched or configured.\n\nRelated modules: 1. [Original guide PDF pages 1\u20136](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-1",
+    "title": "Exercise 1 \u2014 Explore Report Configuration",
+    "pdf_pages": [
+      7,
+      14
+    ],
+    "related_modules": [
+      2
+    ],
+    "markdown": "## Exercise 1 \u2014 Explore Report Configuration\n\n1. Inspect the sample identities and their searchable Training Status extension.\n2. Run an Advanced Analytics identity query with the selected fields, then save it as a named report.\n3. Execute the standard User Details template and inspect the persisted result and export options.\n4. Save a lapsed-training instance, compare preview with complete execution, and group the results by manager.\n5. Schedule the configured instance to run now and weekly in the lab.\n6. In Debug Pages, trace TaskResult to its schedule and TaskDefinition, then inspect the configured definition's parameters and parent template.\n\nThe original pages contain the exact training names/values and questions. No report was run, created, scheduled or exported from a live IdentityIQ system during preparation.\n\nRelated modules: 2. [Original guide PDF pages 7\u201314](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-2",
+    "title": "Exercise 2 \u2014 Create a Custom Report and Control Access",
+    "pdf_pages": [
+      15,
+      18
+    ],
+    "related_modules": [
+      3
+    ],
+    "markdown": "## Exercise 2 \u2014 Create a Custom Report and Control Access\n\n1. Use the Console checkout command with the clean option to export the existing User Details TaskDefinition.\n2. Edit the file externally, change the report name/category and add the Training Status column.\n3. Import the lab definition, find it under the new category and inspect the output.\n4. Study how RequiredRights references the custom reporting SPRight and how a capability conveys that right.\n5. Test the intended training identity's report visibility and the visibility of results created by another user.\n\nThe guide uses the same name for the custom capability and SPRight for convenience; they remain different object types. No capability was assigned while building the book.\n\nRelated modules: 3. [Original guide PDF pages 15\u201318](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-3",
+    "title": "Exercise 3 \u2014 Data Sources and an Application Filter Report",
+    "pdf_pages": [
+      19,
+      22
+    ],
+    "related_modules": [
+      4
+    ],
+    "markdown": "## Exercise 3 \u2014 Data Sources and an Application Filter Report\n\n1. Inspect standard reports that reference compiled Java data-source classes.\n2. Inspect the Account Group Membership Totals HQL source and its Query, QueryScript, QueryParameters and Signature.\n3. Complete the supplied Filter report XML for Application objects, adding the name/category, source type, name/authoritative/owner.name columns and report right.\n4. Import and run the lab report, then relate each displayed property back to the source definition.\n\nHQL queries object names/properties through Hibernate; its syntax resemblance to SQL does not make it a direct database-table query. The compiled classes and VM starter XML were not exported or executed here.\n\nRelated modules: 4. [Original guide PDF pages 19\u201322](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-4",
+    "title": "Exercise 4 \u2014 Fixed Filters and User Parameters",
+    "pdf_pages": [
+      23,
+      25
+    ],
+    "related_modules": [
+      5
+    ],
+    "markdown": "## Exercise 4 \u2014 Fixed Filters and User Parameters\n\n1. Copy the Application report and add the fixed authoritative==false query.\n2. Run a saved test instance to establish what the fixed condition returns.\n3. Add the appInput Signature argument and a matching QueryParameter mapped to the application ID.\n4. Reimport the changed template, reopen the configured instance, select a target application and verify the resulting dataset.\n5. Observe that the selector can still show authoritative applications even though the query excludes them; the custom-form exercise later improves the selectable values.\n\nThe Signature and QueryParameter names must agree. Filtering output and filtering input choices are separate configuration tasks.\n\nRelated modules: 5. [Original guide PDF pages 23\u201325](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-5",
+    "title": "Exercise 5 \u2014 RenderScript",
+    "pdf_pages": [
+      26,
+      29
+    ],
+    "related_modules": [
+      6
+    ],
+    "markdown": "## Exercise 5 \u2014 RenderScript\n\n1. Complete the Training Status label transformation, replacing raw true/false values with the intended business labels.\n2. Put the script in the existing column's RenderScript/Source structure, save a renamed report and compare its visible results.\n3. Inspect the two additional Application-report column definitions. Their source property becomes each script's value argument.\n4. Follow the identity-count query restricted to Links on the selected application and the additional expired-training condition.\n5. Add the columns, run the lab report and inspect the counts/percentage.\n\nThe guide has a closing-tag typo near the paste instruction (`</Column>` versus the surrounding Columns collection); preserve well-formed XML and the intended element nesting. The calculations derive identity information through context, not a preexisting total on the Application itself.\n\nRelated modules: 6. [Original guide PDF pages 26\u201329](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-6",
+    "title": "Exercise 6 \u2014 Report Forms",
+    "pdf_pages": [
+      30,
+      35
+    ],
+    "related_modules": [
+      7
+    ],
+    "markdown": "## Exercise 6 \u2014 Report Forms\n\n1. Import the supplied User Details report with a static custom form and examine the initial selector behavior.\n2. Edit the Manager Selection label, make the manager field multi-valued, restrict candidates with managerStatus, and separate Training Status into its own section.\n3. Define the custom Application form with a clear label, tooltip, multi-selection and a non-authoritative filterString. Keep the field name aligned with appInput.\n4. Attach the Form through the report's ReportForm reference and verify both the selector and query output.\n5. Inspect the standard User Details shell form and its initialization rule, which generates standard/extended-attribute fields dynamically.\n6. When replacing dynamic behavior, coordinate ReportForm, InitializationRule, Signature and QueryParameters rather than changing only the appearance.\n\nNo Form or TaskDefinition was imported or edited on the user's systems for these notes.\n\nRelated modules: 7. [Original guide PDF pages 30\u201335](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-7",
+    "title": "Exercise 7 \u2014 Report Charts and Summaries",
+    "pdf_pages": [
+      36,
+      38
+    ],
+    "related_modules": [
+      8
+    ],
+    "markdown": "## Exercise 7 \u2014 Report Charts and Summaries\n\n1. Run the training Identity Status Summary report and inspect the map returned by its summary source and the matching LiveReportSummaryValue names.\n2. Inspect Uncorrelated Accounts and compare its detail grid, summary and chart source.\n3. Study changing the existing chart from pie to column and verify what changed in presentation.\n4. Add the Application-report summary map with total identities, expired identities and the formatted percentage.\n5. Inspect the supplied chart data-source rule and identify its series, category and values before attaching it to the report.\n6. Run the updated lab report and compare the summary/chart totals to their intended population.\n\nThese are study steps, not completed reporting or review actions. Check the guide's occasionally inconsistent file spelling against the actual VM files.\n\nRelated modules: 8. [Original guide PDF pages 36\u201338](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  },
+  {
+    "id": "practice-appendix",
+    "title": "Appendix \u2014 terminology and Linux commands",
+    "pdf_pages": [
+      39,
+      39
+    ],
+    "related_modules": [
+      1,
+      3,
+      4
+    ],
+    "markdown": "## Appendix \u2014 terminology and Linux commands\n\nConsult the original guide appendix for its UI/internal terminology cross-reference and Linux command reference. That appendix is not reproduced here; no commands were executed against the training VM.\n\nRelated modules: 1, 3, 4. [Original guide PDF pages 39\u201339](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/424549).\n\n"
+  }
+]

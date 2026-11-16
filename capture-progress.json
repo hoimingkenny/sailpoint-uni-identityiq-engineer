@@ -1,9 +1,9 @@
 {
-  "edition": "Rules, Scripts, and API added",
+  "edition": "Custom Reports added",
   "verified_date": "2026-11-16",
   "path_complete": false,
   "teaching_courses": 5,
-  "courses_with_some_notes": 3,
+  "courses_with_some_notes": 4,
   "introduction_topics_with_notes": 12,
   "essentials_modules_with_notes": [
     1,
@@ -79,6 +79,17 @@
     32,
     33
   ],
+  "custom_reports_modules_with_notes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "custom_reports_full_audiovisual_capture_complete": false,
   "rules_api_topics_with_notes": [
     1,
     2,
@@ -97,10 +108,12 @@
     "essentials_slide_page_renders": 429,
     "essentials_guide_page_renders": 257,
     "rules_api_inline_originals": 42,
-    "rules_api_guide_page_renders": 37
+    "rules_api_guide_page_renders": 37,
+    "custom_reports_slide_page_renders": 0,
+    "custom_reports_guide_page_renders": 0
   },
   "official_essentials_handouts_saved": 2,
-  "next_course": "IdentityIQ Custom Reports",
+  "next_course": "Advanced Provisioning and Workflows (LMS prerequisite gated during prior inspection)",
   "restricted_course": "Advanced Provisioning and Workflows",
   "restriction": "Accepted Essentials completion is an LMS prerequisite, not satisfied by compiling study notes"
 }

@@ -73,4 +73,14 @@ with zipfile.ZipFile(rules/'handouts/course-artifacts.zip') as archive:assert ar
 for item in json.loads((rules/'coverage.json').read_text())['downloads']:
     assert hashlib.sha256((rules/item['file']).read_bytes()).hexdigest()==item['sha256']
 
-print(json.dumps({'html_pages_checked':len(parsed),'local_links_checked':link_count,'verified_image_files':asset_count,'essentials_modules_with_substantive_notes':len(chunks),'rules_api_topics':8,'saved_videos_checked':len(media),'full_path_complete':False}))
+reports=ROOT/'study/courses/04-custom-reports'
+reports_notes=(reports/'notes.md').read_text()
+assert list(map(int,re.findall(r'^## (\d+)\. ',reports_notes,re.M)))==list(range(1,9))
+assert len(list((reports/'modules').glob('*.html')))==8
+assert len(parsed[(reports/'index.html').resolve()].images)==0
+assert len(parsed[(reports/'practice-companion.html').resolve()].images)==0
+assert '&lt;QueryParameters&gt;' in (reports/'index.html').read_text()
+assert '&lt;![CDATA[' in (reports/'index.html').read_text()
+for item in json.loads((reports/'coverage.json').read_text())['downloads']:
+    assert hashlib.sha256((reports/item['file']).read_bytes()).hexdigest()==item['sha256']
+print(json.dumps({'html_pages_checked':len(parsed),'local_links_checked':link_count,'verified_image_files':asset_count,'essentials_modules_with_substantive_notes':len(chunks),'custom_reports_modules':8,'rules_api_topics':8,'saved_videos_checked':len(media),'full_path_complete':False}))

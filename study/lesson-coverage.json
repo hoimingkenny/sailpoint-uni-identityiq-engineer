@@ -475,5 +475,77 @@
     "notes_status": "English paraphrased notes available",
     "source_basis": "Original written topic; workflow/performance interactions expanded where present; exercise guide",
     "media_status": "Original MP4 preserved where present; narration not fully transcribed or reviewed frame by frame"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 1,
+    "title": "Course Introduction",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation/exercise handouts; introduction objectives/prerequisites additionally inspected in player",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 2,
+    "title": "Configuring Reports",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 3,
+    "title": "Report TaskDefinition Components",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 4,
+    "title": "Defining Report Contents",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 5,
+    "title": "Custom Filter Report",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 6,
+    "title": "RenderScript",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 7,
+    "title": "Report Forms",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
+  },
+  {
+    "course": "IdentityIQ Custom Reports",
+    "level": "numbered teaching module",
+    "number": 8,
+    "title": "Report Summary and Chart",
+    "notes_status": "English paraphrased notes available",
+    "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+    "media_status": "Original PDF pages/images not reproduced; full narration and player-state archive not captured"
   }
 ]

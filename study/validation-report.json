@@ -1,8 +1,8 @@
 {
   "date": "2026-11-16",
   "numbered_essentials_modules_checked": 33,
-  "html_pages_checked": 48,
-  "local_links_checked": 4280,
+  "html_pages_checked": 58,
+  "local_links_checked": 4363,
   "verified_image_hashes": 827,
   "original_pdf_hashes_verified": 2,
   "essentials_slide_illustrations": 429,
@@ -15,10 +15,17 @@
     "rules_api_search_flushIterator": "2 of 8 topics: SailPointContext and Best Practices",
     "rules_api_local_video_playback": "getObjects MP4 advanced to about 14 seconds, duration 33.4 seconds, readyState 4 and no media error; then paused",
     "rules_api_code_layout": "Multiline escaped code block visually inspected",
-    "rules_api_practice_link": "Exercise 3 opened the correct section with three original guide pages"
+    "rules_api_practice_link": "Exercise 3 opened the correct section with three original guide pages",
+    "custom_reports_search": "appInput shows 2 of 8 reading sections",
+    "custom_reports_navigation": "Module 8 opens and clears the search field",
+    "custom_reports_practice": "Exercise 7 opens matching section; original pages subsequently removed from published notes edition",
+    "custom_reports_layout": "Final notes-only edition reloaded and visually inspected; appInput search shows 2 of 8 sections"
   },
   "limitations": "Verification covers the saved study artifacts; it does not establish audiovisual or LMS completion.",
   "rules_api_topics_checked": 8,
   "rules_api_original_videos_verified": 9,
-  "rules_api_guide_pages": 37
+  "rules_api_guide_pages": 37,
+  "custom_reports_modules_checked": 8,
+  "custom_reports_slide_illustrations": 0,
+  "custom_reports_guide_pages": 0
 }

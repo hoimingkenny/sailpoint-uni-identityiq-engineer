@@ -1,0 +1,61 @@
+{
+  "course": "IdentityIQ Custom Reports",
+  "verified_date": "2026-11-16",
+  "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports",
+  "numbered_modules": 8,
+  "modules_with_notes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "source_basis": "Official 75-page presentation PDF and 39-page exercise guide; introduction objectives, audience, prerequisites, lesson list and navigation inspected in Storyline player",
+  "source_version": "Exercise guide says developed/verified with IdentityIQ 8.1p1; 2021 guide notices; slides include 2019/2020 examples",
+  "original_presentation_pages": 75,
+  "nonblank_presentation_pages_illustrated": 0,
+  "omitted_blank_slide_pages": [
+    15,
+    24,
+    37,
+    48,
+    57,
+    66,
+    75
+  ],
+  "original_exercise_guide_pages": 39,
+  "saved_image_files": 0,
+  "image_kind": "Original course page images are not redistributed in this notes edition",
+  "introduction_source_limit": "No matching introductory slide section exists in the downloadable deck, which begins with Configuring Reports",
+  "known_failed_image_export": [
+    {
+      "location": "Introduction player SVG image",
+      "observed_href": "/content/wp/e736kas11dtm/1dgzuanixpdgv/mobile/5jXpJz8E6WY_DX372_DY372_CX268_CY55.png",
+      "result": "Browser media download reported that the SVG image element did not expose a downloadable URL; no workaround attempted"
+    }
+  ],
+  "missing_or_incomplete": [
+    "Original presentation/guide PDFs, diagrams and page images are not included; access through official Course Files",
+    "Full narration/caption transcripts for all eight slide modules",
+    "Original audio, animations, demonstrations and complete player/slide-state archive",
+    "Separate introduction-player graphics not present in the slide PDF",
+    "Feedback Survey slide content not fully read; no feedback submitted",
+    "Separate Accessing the Virtual Machine lesson and My lab interface",
+    "VM starter files referenced under ReportsTraining; no separate artifact download was offered on inspected Course Files page",
+    "Linked whitepapers and installation JavaDoc contents",
+    "Separate course rating and closing Next Steps page"
+  ],
+  "source_errata": [
+    "JavaDataSource package capitalization differs between one slide and exercise guide; use deployed-version JavaDoc",
+    "Some slide snippets contain typographic quotes and a FRPM typo in a SQL analogy",
+    "Guide RenderScript paste instruction uses a closing Column tag where the surrounding collection is Columns",
+    "Guide has inconsistent Non-Authoritive/Non-Authoritative and summary filename spellings; no VM starter files exported to reconcile them"
+  ],
+  "assessment_and_live_actions": "No Answer Key used, quiz answers, report execution, scheduling, import, capability assignment, review or VM operation performed",
+  "numbered_module_notes_complete": true,
+  "full_audiovisual_capture_complete": false,
+  "downloads": []
+}

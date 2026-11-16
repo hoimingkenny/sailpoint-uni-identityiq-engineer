@@ -1,6 +1,6 @@
 # Coverage and Missing Material
 
-**The Engineer learning path remains incomplete.** Introduction has twelve topic notes, Essentials has notes for all 33 numbered teaching modules, and Rules / Scripts / API has notes for all eight internal topics. The remaining teaching courses are separate work. The path lists five teaching courses (60 hours 30 minutes displayed) plus two certification exam entries.
+**The Engineer learning path remains incomplete.** Introduction has twelve topic notes, Essentials has notes for all 33 numbered teaching modules, Rules / Scripts / API has notes for all eight internal topics, and Custom Reports has notes for all eight numbered modules. The remaining teaching courses are separate work. The path lists five teaching courses (60 hours 30 minutes displayed) plus two certification exam entries.
 
 ## Course status
 
@@ -10,7 +10,7 @@
 | IdentityIQ Essentials | All 33 numbered modules have English notes; 429 slide illustrations and 257 exercise-guide page illustrations; audiovisual gaps documented |
 | SailPoint Certified IdentityIQ Associate | Exam content excluded |
 | IdentityIQ Rules, Scripts, and API | English notes for all eight internal topics; 42 inline images, nine videos and 37 exercise-guide page illustrations saved; transcript gaps documented |
-| IdentityIQ Custom Reports | Outline verified; lesson notes pending |
+| IdentityIQ Custom Reports | English handout-based notes for all eight numbered modules; original materials linked through SailPoint; narration/player gaps documented |
 | IdentityIQ Implementation: Advanced Provisioning and Workflows | Restricted: prerequisite completion required |
 | SailPoint Certified IdentityIQ Engineer | Exam content excluded |
 
@@ -50,9 +50,19 @@ Code examples are explanatory and were not executed in an IdentityIQ instance. N
 
 See [Rules / Scripts / API notes](courses/03-rules-scripts-api/notes.md), [its exercise companion](courses/03-rules-scripts-api/practice-companion.html), and [the exact coverage report](courses/03-rules-scripts-api/coverage.json).
 
+## IdentityIQ Custom Reports
+
+Notes cover all eight numbered modules using the official 75-page presentation deck and 39-page exercise guide. Original slide and guide PDFs, diagrams and page images are not reproduced; references point back to SailPoint Course Files.
+
+The introduction objectives, audience, prerequisites, lesson list and navigation were inspected in the Storyline player. Full narration, audio, animation and changing demonstration states were not archived or transcribed. The presentation deck begins with Module 2; unique introduction-player graphics are not separately saved. The SVG media-export failure and observed image path are recorded in its coverage JSON.
+
+The guide says it was developed/verified with IdentityIQ 8.1p1; examples are historical course material. VM starter files, the separate VM-access lesson, My lab interface, external references and wrap-up material remain uncaptured. No report execution, schedule, import, capability change, review or VM operation was performed. The separate Answer Key was not used.
+
+See [Custom Reports notes](courses/04-custom-reports/notes.md), [the exercise companion](courses/04-custom-reports/practice-companion.html), and [exact coverage record](courses/04-custom-reports/coverage.json).
+
 ## Other gaps and restrictions
 
-Custom Reports remains outline-only. Advanced Provisioning and Workflows was gated on completion of an accepted Essentials course during the prior inspection. Preparing study notes does not satisfy the LMS prerequisite. Only its visible outline has been recorded and no restriction was bypassed.
+Advanced Provisioning and Workflows was gated on completion of an accepted Essentials course during the prior inspection. Preparing study notes does not satisfy the LMS prerequisite. Only its visible outline has been recorded and no restriction was bypassed.
 
 Certification exam questions/answers are excluded; no attempt was submitted. Separate course Answer Key PDFs were not used. External linked references, current support matrices and software downloads have not been comprehensively archived.
 

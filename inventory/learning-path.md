@@ -87,7 +87,7 @@ Status: English notes for all eight topics, with 42 original inline images, nine
 
 ### 5. IdentityIQ Custom Reports
 
-Status: Outline verified; lesson notes pending
+Status: English handout-based notes for all eight numbered modules, with 68 slide-page and 39 guide-page illustrations. Narration, introduction-player graphics and VM-content gaps documented. Updated 16 November 2026.
 
 [Open source](https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports)
 

@@ -544,58 +544,103 @@
       "type": "teaching",
       "duration_minutes": 180,
       "url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports",
-      "capture_status": "Outline verified; lesson notes pending",
+      "capture_status": "English handout-based notes for all eight numbered modules; original materials linked through SailPoint; narration/player gaps documented",
       "modules": [
         {
           "number": 1,
           "title": "Course Introduction",
           "duration_minutes": 10,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation/exercise handouts; introduction objectives/prerequisites additionally inspected in player",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247671",
+          "presentation_pdf_pages": null
         },
         {
           "number": 2,
           "title": "Configuring Reports",
           "duration_minutes": 20,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247672",
+          "presentation_pdf_pages": [
+            1,
+            15
+          ]
         },
         {
           "number": 3,
           "title": "Report TaskDefinition Components",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247673",
+          "presentation_pdf_pages": [
+            16,
+            24
+          ]
         },
         {
           "number": 4,
           "title": "Defining Report Contents",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247674",
+          "presentation_pdf_pages": [
+            25,
+            37
+          ]
         },
         {
           "number": 5,
           "title": "Custom Filter Report",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247675",
+          "presentation_pdf_pages": [
+            38,
+            48
+          ]
         },
         {
           "number": 6,
           "title": "RenderScript",
           "duration_minutes": 25,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247676",
+          "presentation_pdf_pages": [
+            49,
+            57
+          ]
         },
         {
           "number": 7,
           "title": "Report Forms",
           "duration_minutes": 30,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247677",
+          "presentation_pdf_pages": [
+            58,
+            66
+          ]
         },
         {
           "number": 8,
           "title": "Report Summary and Chart",
           "duration_minutes": 20,
-          "notes_status": "Not yet compiled"
+          "notes_status": "English paraphrased notes available",
+          "source_basis": "Official presentation and exercise handouts; full narration not reviewed",
+          "source_url": "https://university.sailpoint.com/path/identity-security-engineer-identityiq/identityiq-custom-reports/247678",
+          "presentation_pdf_pages": [
+            67,
+            75
+          ]
         }
       ],
-      "internal_topic_inventory": "Not yet inspected",
+      "internal_topic_inventory": "Outer eight modules verified; introduction slide menu inspected. Internal slide inventories for Modules 2–8 not exhaustively captured.",
       "supporting_entries": [
         "Accessing the Virtual Machine",
         "Course Files",
